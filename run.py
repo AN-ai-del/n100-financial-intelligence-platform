@@ -1,0 +1,1 @@
+print("N100 Project Ready")

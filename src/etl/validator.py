@@ -1,0 +1,1 @@
+print("Validator ready")

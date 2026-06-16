@@ -1,0 +1,2 @@
+-- SQLite schema for Nifty100 project
+-- Tables will be created here in Sprint 1 Day 04
