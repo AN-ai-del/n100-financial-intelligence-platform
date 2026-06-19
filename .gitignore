@@ -7,3 +7,4 @@ output/
 .env
 
 .ipynb_checkpoints/
+db/*.db
