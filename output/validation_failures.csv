@@ -1,0 +1,31 @@
+rule_id,severity,file_name,column,message
+DQ-03,WARNING,companies.xlsx,Unnamed: 1,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 5,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 6,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 7,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 8,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 9,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 10,Found 1 missing values
+DQ-03,WARNING,companies.xlsx,Unnamed: 11,Found 2 missing values
+DQ-03,WARNING,profitandloss.xlsx,Unnamed: 5,Found 13 missing values
+DQ-03,WARNING,profitandloss.xlsx,Unnamed: 6,Found 15 missing values
+DQ-03,WARNING,profitandloss.xlsx,Unnamed: 11,Found 95 missing values
+DQ-03,WARNING,profitandloss.xlsx,Unnamed: 13,Found 5 missing values
+DQ-03,WARNING,profitandloss.xlsx,Unnamed: 14,Found 103 missing values
+DQ-03,WARNING,cashflow.xlsx,Unnamed: 3,Found 2 missing values
+DQ-03,WARNING,cashflow.xlsx,Unnamed: 4,Found 2 missing values
+DQ-03,WARNING,cashflow.xlsx,Unnamed: 5,Found 2 missing values
+DQ-03,WARNING,cashflow.xlsx,Unnamed: 6,Found 2 missing values
+DQ-03,WARNING,documents.xlsx,Unnamed: 3,Found 52 missing values
+DQ-03,WARNING,prosandcons.xlsx,Unnamed: 2,Found 5 missing values
+DQ-03,WARNING,prosandcons.xlsx,Unnamed: 3,Found 1 missing values
+DQ-03,WARNING,financial_ratios.xlsx,net_profit_margin_pct,Found 1 missing values
+DQ-03,WARNING,financial_ratios.xlsx,operating_profit_margin_pct,Found 61 missing values
+DQ-03,WARNING,financial_ratios.xlsx,interest_coverage,Found 93 missing values
+DQ-03,WARNING,financial_ratios.xlsx,asset_turnover,Found 1 missing values
+DQ-03,WARNING,financial_ratios.xlsx,free_cash_flow_cr,Found 2 missing values
+DQ-03,WARNING,financial_ratios.xlsx,capex_cr,Found 2 missing values
+DQ-03,WARNING,financial_ratios.xlsx,earnings_per_share,Found 4 missing values
+DQ-03,WARNING,financial_ratios.xlsx,dividend_payout_ratio_pct,Found 4 missing values
+DQ-03,WARNING,financial_ratios.xlsx,cash_from_operations_cr,Found 2 missing values
+DQ-04,CRITICAL,companies.xlsx,Company Name,Required column is missing
