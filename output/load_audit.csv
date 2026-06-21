@@ -1,0 +1,13 @@
+file_name,table_name,status,rows_loaded,error
+companies.xlsx,companies,SUCCESS,93,
+profitandloss.xlsx,profitandloss,SUCCESS,1277,
+balancesheet.xlsx,balancesheet,SUCCESS,1313,
+cashflow.xlsx,cashflow,SUCCESS,1188,
+analysis.xlsx,analysis,SUCCESS,21,
+documents.xlsx,documents,SUCCESS,1586,
+prosandcons.xlsx,prosandcons,SUCCESS,17,
+financial_ratios.xlsx,financial_ratios,SUCCESS,1184,
+market_cap.xlsx,market_cap,SUCCESS,552,
+peer_groups.xlsx,peer_groups,SUCCESS,56,
+sectors.xlsx,sectors,SUCCESS,92,
+stock_prices.xlsx,stock_prices,SUCCESS,5520,
