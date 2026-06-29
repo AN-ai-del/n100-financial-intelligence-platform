@@ -113,3 +113,103 @@ def calculate_roa(net_profit, total_assets):
         return None
 
     return result * 100
+
+def calculate_debt_to_equity(borrowings, equity_capital, reserves):
+    """
+    Debt-to-Equity Ratio
+
+    D/E = Borrowings / (Equity + Reserves)
+
+    Returns:
+        0 when borrowings = 0
+        None when denominator <= 0
+    """
+
+    if borrowings == 0:
+        return 0
+
+    equity = equity_capital + reserves
+
+    if equity <= 0:
+        return None
+
+    return borrowings / equity
+
+
+def high_leverage_flag(de_ratio, sector):
+    """
+    Returns True when:
+        D/E > 5
+        AND company is NOT Financials
+    """
+
+    if de_ratio is None:
+        return False
+
+    if sector == "Financials":
+        return False
+
+    return de_ratio > 5
+
+
+def calculate_interest_coverage(
+        operating_profit,
+        other_income,
+        interest):
+
+    """
+    Interest Coverage Ratio
+
+    (Operating Profit + Other Income)
+/ Interest
+    """
+
+    if interest == 0:
+        return None
+
+    return (operating_profit + other_income) / interest
+
+
+def icr_label(icr):
+
+    if icr is None:
+        return "Debt Free"
+
+    return ""
+
+
+def icr_warning(icr):
+
+    if icr is None:
+        return False
+
+    return icr < 1.5
+
+
+def calculate_net_debt(
+        borrowings,
+        investments):
+
+    """
+    Net Debt
+
+    Borrowings - Investments
+    """
+
+    return borrowings - investments
+
+
+def calculate_asset_turnover(
+        sales,
+        total_assets):
+
+    """
+    Asset Turnover
+
+    Sales / Total Assets
+    """
+
+    if total_assets == 0:
+        return None
+
+    return sales / total_assets
