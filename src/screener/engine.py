@@ -13,67 +13,98 @@ def load_config():
         return yaml.safe_load(f)
 
 
-def apply_filters(df, config):
+def apply_threshold(df, column, operator, value):
 
-    filters = config["filters"]
+    if column not in df.columns:
+        return df
 
-    if "return_on_equity_pct" in df.columns:
-        df = df[
-            df["return_on_equity_pct"].fillna(-999)
-            >= filters["roe_min"]
-        ]
+    series = pd.to_numeric(df[column], errors="coerce")
 
-    if "debt_to_equity" in df.columns:
+    if operator == ">":
+        return df[series > value]
 
-        if "broad_sector" in df.columns:
+    if operator == ">=":
+        return df[series >= value]
 
-            financial_mask = (
-                df["broad_sector"]
-                .fillna("")
-                .str.lower()
-                == "financials"
-            )
+    if operator == "<":
+        return df[series < value]
 
-            df = df[
-                financial_mask
-                |
-                (
-                    df["debt_to_equity"].fillna(999)
-                    <= filters["debt_to_equity_max"]
-                )
-            ]
+    if operator == "<=":
+        return df[series <= value]
 
-        else:
-
-            df = df[
-                df["debt_to_equity"].fillna(999)
-                <= filters["debt_to_equity_max"]
-            ]
-
-    if "interest_coverage" in df.columns:
-
-        df["interest_coverage_numeric"] = (
-            df["interest_coverage"]
-            .replace("Debt Free", float("inf"))
-        )
-
-        df = df[
-            pd.to_numeric(
-                df["interest_coverage_numeric"],
-                errors="coerce"
-            ).fillna(0)
-            >= filters["interest_coverage_min"]
-        ]
-
-    if "composite_quality_score" not in df.columns:
-        df["composite_quality_score"] = 0
-
-    df = df.sort_values(
-        by="composite_quality_score",
-        ascending=False
-    )
+    if operator == "=":
+        return df[series == value]
 
     return df
+
+
+# ------------------------
+# Presets
+# ------------------------
+
+def quality_compounder(df):
+
+    df = apply_threshold(df, "return_on_equity_pct", ">", 15)
+    df = apply_threshold(df, "debt_to_equity", "<", 1)
+    df = apply_threshold(df, "free_cash_flow_cr", ">", 0)
+    df = apply_threshold(df, "revenue_cagr_5yr", ">", 10)
+
+    return df
+
+
+def value_pick(df):
+
+    df = apply_threshold(df, "pe_ratio", "<", 20)
+    df = apply_threshold(df, "pb_ratio", "<", 3)
+    df = apply_threshold(df, "debt_to_equity", "<", 2)
+    df = apply_threshold(df, "dividend_yield", ">", 1)
+
+    return df
+
+
+def growth_accelerator(df):
+
+    df = apply_threshold(df, "pat_cagr_5yr", ">", 20)
+    df = apply_threshold(df, "revenue_cagr_5yr", ">", 15)
+    df = apply_threshold(df, "debt_to_equity", "<", 2)
+
+    return df
+
+
+def dividend_champion(df):
+
+    df = apply_threshold(df, "dividend_yield", ">", 2)
+    df = apply_threshold(df, "dividend_payout_ratio_pct", "<", 80)
+    df = apply_threshold(df, "free_cash_flow_cr", ">", 0)
+
+    return df
+
+
+def debt_free_bluechip(df):
+
+    df = apply_threshold(df, "debt_to_equity", "=", 0)
+    df = apply_threshold(df, "return_on_equity_pct", ">", 12)
+    df = apply_threshold(df, "sales", ">", 5000)
+
+    return df
+
+
+def turnaround_watch(df):
+
+    df = apply_threshold(df, "revenue_cagr_3yr", ">", 10)
+    df = apply_threshold(df, "free_cash_flow_cr", ">", 0)
+
+    return df
+
+
+PRESETS = {
+    "Quality Compounder": quality_compounder,
+    "Value Pick": value_pick,
+    "Growth Accelerator": growth_accelerator,
+    "Dividend Champion": dividend_champion,
+    "Debt-Free Blue Chip": debt_free_bluechip,
+    "Turnaround Watch": turnaround_watch,
+}
 
 
 def main():
@@ -85,11 +116,21 @@ def main():
         conn
     )
 
-    config = load_config()
+    for name, func in PRESETS.items():
 
-    filtered = apply_filters(ratios, config)
+        result = func(ratios.copy())
 
-    print(filtered.head())
+        print("=" * 60)
+        print(name)
+        print(f"Companies Found : {len(result)}")
+
+        if len(result):
+
+            print(
+                result.head()[
+                    result.columns[:8]
+                ]
+            )
 
     conn.close()
 
