@@ -6,14 +6,9 @@ Days 22–28
 
 ## Sprint Objective
 
-The objective of Sprint 4 was to transform the analytical engines
-developed during the earlier sprints into an interactive financial
-intelligence dashboard for the Nifty 100 universe.
+The objective of Sprint 4 was to transform the analytical engines developed during the earlier sprints into an interactive financial intelligence dashboard for the Nifty 100 universe.
 
-The sprint focused on integrating company fundamentals, financial
-ratios, peer comparisons, trend analysis, sector intelligence,
-capital-allocation analysis and annual-report access into a unified
-Streamlit application.
+The sprint focused on integrating company fundamentals, financial ratios, peer comparisons, trend analysis, sector intelligence, capital-allocation analysis and annual-report access into a unified Streamlit application.
 
 ---
 
@@ -21,8 +16,7 @@ Streamlit application.
 
 ### 1. Dashboard Architecture
 
-A multi-page Streamlit dashboard was implemented with the following
-pages:
+A multi-page Streamlit dashboard was implemented with the following pages:
 
 - Home
 - Company Profile
@@ -39,8 +33,7 @@ The pages share the same underlying SQLite financial database.
 
 ## 2. Home Dashboard
 
-The home page provides a portfolio-level overview of the Nifty 100
-universe.
+The home page provides a portfolio-level overview of the Nifty 100 universe.
 
 Key functionality includes:
 
@@ -73,8 +66,7 @@ Functionality includes:
 
 ## 4. Financial Screener
 
-An interactive financial screener was implemented using the analytical
-metrics developed in earlier sprints.
+An interactive financial screener was implemented using the analytical metrics developed in earlier sprints.
 
 Supported filters include:
 
@@ -113,8 +105,7 @@ Features include:
 
 ## 6. Financial Trend Analysis
 
-A historical trend-analysis page was developed using the supplied
-profit-and-loss dataset.
+A historical trend-analysis page was developed using the supplied profit-and-loss dataset.
 
 Features include:
 
@@ -128,8 +119,7 @@ Features include:
 - Financial momentum analysis
 - Trend dataset export
 
-The raw profit-and-loss table structure was repaired dynamically before
-analysis because the source dataset contained embedded headers.
+The raw profit-and-loss table structure was repaired dynamically before analysis because the source dataset contained embedded headers.
 
 ---
 
@@ -153,8 +143,7 @@ Features include:
 
 ## 8. Capital Allocation Map
 
-The Sprint 2 cash-flow classification engine was integrated into the
-dashboard.
+The Sprint 2 cash-flow classification engine was integrated into the dashboard.
 
 The latest allocation dataset covers all 92 official companies.
 
@@ -177,10 +166,7 @@ Features include:
 - Company classification table
 - CSV export
 
-One company, ATGL, had no cash-flow records in the supplied cash-flow
-dataset. It was retained transparently in the analytical universe under
-the data-availability handling logic rather than assigning fabricated
-cash-flow values.
+One company, ATGL, had no cash-flow records in the supplied cash-flow dataset. It was retained transparently in the analytical universe under the data-availability handling logic rather than assigning fabricated cash-flow values.
 
 ---
 
@@ -196,8 +182,7 @@ Features include:
 - PDF access
 - Report index export
 
-The documents source required header repair because the actual column
-headers were stored in the first data row.
+The documents source required header repair because the actual column headers were stored in the first data row.
 
 Annual-report links were verified to open successfully.
 
@@ -205,20 +190,17 @@ Annual-report links were verified to open successfully.
 
 ## Data Integrity
 
-The dashboard uses the supplied Nifty 100 project datasets and the
-SQLite analytical database created during the earlier sprints.
+The dashboard uses the supplied Nifty 100 project datasets and the SQLite analytical database created during the earlier sprints.
 
 No missing financial values were manually fabricated.
 
-Special data-availability cases were handled explicitly in the
-application.
+Special data-availability cases were handled explicitly in the application.
 
 ---
 
 ## Technical Challenges Resolved
 
-During Sprint 4 several data-integration issues were identified and
-resolved:
+During Sprint 4 several data-integration issues were identified and resolved:
 
 1. Embedded spreadsheet headers in imported SQLite tables.
 2. Inconsistent company coverage between datasets.
@@ -233,8 +215,7 @@ resolved:
 
 ## Sprint Outcome
 
-Sprint 4 successfully transformed the financial analytics pipeline into
-a working interactive financial intelligence platform.
+Sprint 4 successfully transformed the financial analytics pipeline into a working interactive financial intelligence platform.
 
 The dashboard now provides:
 
@@ -246,8 +227,7 @@ The dashboard now provides:
 - Capital allocation analysis
 - Annual-report access
 
-This provides the user-facing analytical foundation required for the
-remaining project sprints.
+This provides the user-facing analytical foundation required for the remaining project sprints.
 
 ---
 
