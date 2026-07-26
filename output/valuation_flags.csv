@@ -1,0 +1,185 @@
+company_id,company_name,broad_sector,valuation_year,flag_type,flag_reason,pe_ratio,pb_ratio,ev_ebitda,dividend_yield_pct,valuation_score,valuation_category
+ABB,Abbott India Ltd,Industrials,2024,Potential Overvaluation,P/E substantially above sector median,75.58,4.48,12.63,0.96,45.71,Fairly Valued
+ABB,Abbott India Ltd,Industrials,2024,Potential Undervaluation,P/B substantially below sector median,75.58,4.48,12.63,0.96,45.71,Fairly Valued
+ABB,Abbott India Ltd,Industrials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,75.58,4.48,12.63,0.96,45.71,Fairly Valued
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,58.5,9.05,14.83,1.65,51.22,Fairly Valued
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,2024,Potential Undervaluation,P/B substantially below sector median,48.9,2.31,31.76,1.16,44.51,Fairly Valued
+ADANIPOWER,Adani Power Ltd,Energy,2024,Potential Overvaluation,P/B substantially above sector median,44.57,9.91,24.76,1.65,53.8,Fairly Valued
+AMBUJACEM,Ambuja Cements Ltd,Materials,2024,Income Opportunity,High dividend yield,55.62,9.21,27.67,3.1,65.46,Fairly Valued
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,47.72,7.68,16.74,3.22,49.32,Fairly Valued
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,2024,Income Opportunity,High dividend yield,47.72,7.68,16.74,3.22,49.32,Fairly Valued
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,2024,Potential Undervaluation,P/B substantially below sector median,73.37,3.9,23.94,2.42,57.55,Fairly Valued
+AXISBANK,Axis Bank Ltd,Financials,2024,Potential Undervaluation,P/B substantially below sector median,38.14,4.66,16.87,2.32,37.93,Expensive Valuation
+AXISBANK,Axis Bank Ltd,Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,38.14,4.66,16.87,2.32,37.93,Expensive Valuation
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,29.91,9.83,20.14,3.59,47.39,Fairly Valued
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,2024,Potential Undervaluation,P/E substantially below sector median,15.07,6.08,39.72,2.56,46.66,Fairly Valued
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,2024,Potential Overvaluation,EV/EBITDA substantially above sector median,15.07,6.08,39.72,2.56,46.66,Fairly Valued
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,2024,Income Opportunity,High dividend yield,37.73,9.38,27.47,3.37,58.64,Fairly Valued
+BAJFINANCE,Bajaj Finance Ltd,Financials,2024,Potential Overvaluation,P/E substantially above sector median,69.2,4.11,15.96,0.27,41.68,Fairly Valued
+BAJFINANCE,Bajaj Finance Ltd,Financials,2024,Potential Undervaluation,P/B substantially below sector median,69.2,4.11,15.96,0.27,41.68,Fairly Valued
+BAJFINANCE,Bajaj Finance Ltd,Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,69.2,4.11,15.96,0.27,41.68,Fairly Valued
+BANKBARODA,Bank of Baroda,Financials,2024,Potential Undervaluation,P/E substantially below sector median,16.89,4.15,24.7,2.62,31.3,Expensive Valuation
+BANKBARODA,Bank of Baroda,Financials,2024,Potential Undervaluation,P/B substantially below sector median,16.89,4.15,24.7,2.62,31.3,Expensive Valuation
+BEL,Bharat Electronics Ltd,Industrials,2024,Potential Undervaluation,P/E substantially below sector median,17.89,9.22,23.14,0.76,34.08,Expensive Valuation
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,2024,Potential Overvaluation,EV/EBITDA substantially above sector median,63.78,6.28,39.71,1.02,66.63,Fairly Valued
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,2024,Potential Undervaluation,P/E substantially below sector median,29.8,11.43,21.59,4.04,52.5,Fairly Valued
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,2024,Potential Overvaluation,P/B substantially above sector median,29.8,11.43,21.59,4.04,52.5,Fairly Valued
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,2024,Income Opportunity,High dividend yield,29.8,11.43,21.59,4.04,52.5,Fairly Valued
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,2024,Potential Overvaluation,P/E substantially above sector median,58.43,6.47,16.07,4.23,56.58,Fairly Valued
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,58.43,6.47,16.07,4.23,56.58,Fairly Valued
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,58.43,6.47,16.07,4.23,56.58,Fairly Valued
+BPCL,Bharat Petroleum Corporation Ltd,Energy,2024,Potential Overvaluation,P/E substantially above sector median,68.15,0.72,26.59,1.15,48.64,Fairly Valued
+BPCL,Bharat Petroleum Corporation Ltd,Energy,2024,Potential Undervaluation,P/B substantially below sector median,68.15,0.72,26.59,1.15,48.64,Fairly Valued
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,2024,Potential Undervaluation,P/B substantially below sector median,63.91,4.26,33.95,1.88,62.28,Fairly Valued
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,2024,Potential Overvaluation,EV/EBITDA substantially above sector median,63.91,4.26,33.95,1.88,62.28,Fairly Valued
+CANBK,Canara Bank,Financials,2024,Potential Overvaluation,P/B substantially above sector median,36.74,12.61,25.23,3.81,64.62,Fairly Valued
+CANBK,Canara Bank,Financials,2024,Income Opportunity,High dividend yield,36.74,12.61,25.23,3.81,64.62,Fairly Valued
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,2024,Potential Undervaluation,P/E substantially below sector median,16.79,10.36,13.52,2.83,36.44,Expensive Valuation
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,16.79,10.36,13.52,2.83,36.44,Expensive Valuation
+COALINDIA,Coal India Ltd,Materials,2024,Potential Undervaluation,P/E substantially below sector median,34.27,14.75,25.15,4.38,66.47,Fairly Valued
+COALINDIA,Coal India Ltd,Materials,2024,Potential Overvaluation,P/B substantially above sector median,34.27,14.75,25.15,4.38,66.47,Fairly Valued
+COALINDIA,Coal India Ltd,Materials,2024,Income Opportunity,High dividend yield,34.27,14.75,25.15,4.38,66.47,Fairly Valued
+DABUR,Dabur India Ltd,Consumer Staples,2024,Potential Overvaluation,P/B substantially above sector median,50.95,13.59,12.02,3.42,58.51,Fairly Valued
+DABUR,Dabur India Ltd,Consumer Staples,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,50.95,13.59,12.02,3.42,58.51,Fairly Valued
+DABUR,Dabur India Ltd,Consumer Staples,2024,Income Opportunity,High dividend yield,50.95,13.59,12.02,3.42,58.51,Fairly Valued
+DIVISLAB,Divis Laboratories Ltd,Healthcare,2024,Potential Overvaluation,P/B substantially above sector median,69.95,12.34,31.81,1.39,78.21,Attractive Valuation
+DLF,DLF Ltd,Real Estate,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,46.26,14.32,10.41,2.58,52.45,Fairly Valued
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,2024,Potential Overvaluation,P/E substantially above sector median,72.53,11.71,36.84,1.94,84.46,Attractive Valuation
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,2024,Potential Undervaluation,P/E substantially below sector median,11.73,10.19,14.56,0.09,25.43,Expensive Valuation
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,11.73,10.19,14.56,0.09,25.43,Expensive Valuation
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/E substantially below sector median,15.62,13.61,19.29,4.41,50.43,Fairly Valued
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,2024,Potential Overvaluation,P/B substantially above sector median,15.62,13.61,19.29,4.41,50.43,Fairly Valued
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,15.62,13.61,19.29,4.41,50.43,Fairly Valued
+GAIL,GAIL (India) Ltd,Energy,2024,Potential Undervaluation,P/E substantially below sector median,25.84,9.54,33.07,0.31,46.74,Fairly Valued
+GAIL,GAIL (India) Ltd,Energy,2024,Potential Overvaluation,P/B substantially above sector median,25.84,9.54,33.07,0.31,46.74,Fairly Valued
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,2024,Potential Undervaluation,P/E substantially below sector median,33.59,8.07,23.55,3.09,47.66,Fairly Valued
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,2024,Income Opportunity,High dividend yield,33.59,8.07,23.55,3.09,47.66,Fairly Valued
+GRASIM,Grasim Industries Ltd,Industrials,2024,Potential Overvaluation,P/E substantially above sector median,79.35,5.68,15.23,0.98,50.46,Fairly Valued
+GRASIM,Grasim Industries Ltd,Industrials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,79.35,5.68,15.23,0.98,50.46,Fairly Valued
+HAL,Hindustan Aeronautics Ltd,Industrials,2024,Potential Overvaluation,P/E substantially above sector median,71.89,3.65,8.76,2.77,46.47,Fairly Valued
+HAL,Hindustan Aeronautics Ltd,Industrials,2024,Potential Undervaluation,P/B substantially below sector median,71.89,3.65,8.76,2.77,46.47,Fairly Valued
+HAL,Hindustan Aeronautics Ltd,Industrials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,71.89,3.65,8.76,2.77,46.47,Fairly Valued
+HAVELLS,Havells India Ltd,Industrials,2024,Potential Overvaluation,P/B substantially above sector median,45.41,14.08,30.73,2.6,68.15,Fairly Valued
+HDFCBANK,HDFC Bank Ltd,Financials,2024,Potential Undervaluation,P/B substantially below sector median,49.42,4.4,22.54,4.33,51.63,Fairly Valued
+HDFCBANK,HDFC Bank Ltd,Financials,2024,Income Opportunity,High dividend yield,49.42,4.4,22.54,4.33,51.63,Fairly Valued
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,2024,Potential Overvaluation,P/E substantially above sector median,50.59,11.28,31.63,3.22,71.71,Attractive Valuation
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,2024,Potential Overvaluation,P/B substantially above sector median,50.59,11.28,31.63,3.22,71.71,Attractive Valuation
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,2024,Income Opportunity,High dividend yield,50.59,11.28,31.63,3.22,71.71,Attractive Valuation
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,2024,Potential Overvaluation,P/B substantially above sector median,53.86,12.6,28.27,1.91,68.21,Fairly Valued
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,2024,Potential Undervaluation,P/E substantially below sector median,34.51,11.88,7.52,4.32,50.22,Fairly Valued
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,34.51,11.88,7.52,4.32,50.22,Fairly Valued
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,2024,Income Opportunity,High dividend yield,34.51,11.88,7.52,4.32,50.22,Fairly Valued
+ICICIBANK,ICICI Bank Ltd,Financials,2024,Potential Overvaluation,EV/EBITDA substantially above sector median,25.76,6.2,38.28,3.43,53.15,Fairly Valued
+ICICIBANK,ICICI Bank Ltd,Financials,2024,Income Opportunity,High dividend yield,25.76,6.2,38.28,3.43,53.15,Fairly Valued
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,2024,Potential Overvaluation,EV/EBITDA substantially above sector median,49.0,7.86,36.96,3.46,68.78,Fairly Valued
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,2024,Income Opportunity,High dividend yield,49.0,7.86,36.96,3.46,68.78,Fairly Valued
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,2024,Potential Undervaluation,P/E substantially below sector median,20.83,12.38,22.57,0.35,40.6,Fairly Valued
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,2024,Potential Overvaluation,P/B substantially above sector median,20.83,12.38,22.57,0.35,40.6,Fairly Valued
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,2024,Potential Overvaluation,P/E substantially above sector median,76.23,7.87,24.64,4.27,73.97,Attractive Valuation
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,76.23,7.87,24.64,4.27,73.97,Attractive Valuation
+INDUSINDBK,IndusInd Bank Ltd,Financials,2024,Potential Undervaluation,P/E substantially below sector median,8.99,3.7,28.79,1.42,26.47,Expensive Valuation
+INDUSINDBK,IndusInd Bank Ltd,Financials,2024,Potential Undervaluation,P/B substantially below sector median,8.99,3.7,28.79,1.42,26.47,Expensive Valuation
+INFY,Infosys Ltd,Information Technology,2024,Potential Undervaluation,P/E substantially below sector median,35.99,8.97,36.7,4.1,65.76,Fairly Valued
+INFY,Infosys Ltd,Information Technology,2024,Income Opportunity,High dividend yield,35.99,8.97,36.7,4.1,65.76,Fairly Valued
+IOC,"Indian Oil Corporation
+",Energy,2024,Potential Undervaluation,P/E substantially below sector median,28.61,4.24,33.71,1.25,39.59,Expensive Valuation
+IOC,"Indian Oil Corporation
+",Energy,2024,Potential Undervaluation,P/B substantially below sector median,28.61,4.24,33.71,1.25,39.59,Expensive Valuation
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,2024,Potential Overvaluation,P/E substantially above sector median,60.44,5.74,32.47,1.08,59.51,Fairly Valued
+IRFC,Indian Railway Finance Corporation Ltd,Financials,2024,Potential Undervaluation,P/E substantially below sector median,9.81,3.91,16.66,2.82,21.79,Expensive Valuation
+IRFC,Indian Railway Finance Corporation Ltd,Financials,2024,Potential Undervaluation,P/B substantially below sector median,9.81,3.91,16.66,2.82,21.79,Expensive Valuation
+IRFC,Indian Railway Finance Corporation Ltd,Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,9.81,3.91,16.66,2.82,21.79,Expensive Valuation
+ITC,"ITC Ltd
+",Consumer Staples,2024,Potential Undervaluation,P/B substantially below sector median,47.85,3.24,17.19,4.26,43.21,Fairly Valued
+ITC,"ITC Ltd
+",Consumer Staples,2024,Income Opportunity,High dividend yield,47.85,3.24,17.19,4.26,43.21,Fairly Valued
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,2024,Potential Undervaluation,P/B substantially below sector median,77.64,5.73,20.22,1.9,58.48,Fairly Valued
+JIOFIN,Jio Financial Services Ltd,Financials,2024,Income Opportunity,High dividend yield,34.24,9.91,26.41,3.09,55.52,Fairly Valued
+JSWENERGY,JSW Energy Ltd,Energy,2024,Potential Undervaluation,P/E substantially below sector median,24.79,9.88,35.95,1.25,52.2,Fairly Valued
+JSWENERGY,JSW Energy Ltd,Energy,2024,Potential Overvaluation,P/B substantially above sector median,24.79,9.88,35.95,1.25,52.2,Fairly Valued
+JSWSTEEL,JSW Steel Ltd,Materials,2024,Potential Undervaluation,P/B substantially below sector median,69.27,4.37,35.49,2.94,68.8,Fairly Valued
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,2024,Potential Undervaluation,P/B substantially below sector median,32.9,1.15,15.52,1.51,22.88,Expensive Valuation
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,32.9,1.15,15.52,1.51,22.88,Expensive Valuation
+LICI,Life Insurance Corporation of India,Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,30.67,8.1,12.21,3.77,39.29,Expensive Valuation
+LICI,Life Insurance Corporation of India,Financials,2024,Income Opportunity,High dividend yield,30.67,8.1,12.21,3.77,39.29,Expensive Valuation
+LODHA,Macrotech Developers Ltd,Real Estate,2024,Potential Undervaluation,P/B substantially below sector median,51.95,7.65,34.33,4.05,69.67,Fairly Valued
+LODHA,Macrotech Developers Ltd,Real Estate,2024,Potential Overvaluation,EV/EBITDA substantially above sector median,51.95,7.65,34.33,4.05,69.67,Fairly Valued
+LODHA,Macrotech Developers Ltd,Real Estate,2024,Income Opportunity,High dividend yield,51.95,7.65,34.33,4.05,69.67,Fairly Valued
+LT,Larsen & Toubro Ltd,Industrials,2024,Potential Undervaluation,P/E substantially below sector median,30.8,2.48,16.63,1.26,23.34,Expensive Valuation
+LT,Larsen & Toubro Ltd,Industrials,2024,Potential Undervaluation,P/B substantially below sector median,30.8,2.48,16.63,1.26,23.34,Expensive Valuation
+LTIM,LTIMindtree Ltd,Information Technology,2024,Potential Undervaluation,P/B substantially below sector median,64.52,2.38,18.9,4.43,53.83,Fairly Valued
+LTIM,LTIMindtree Ltd,Information Technology,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,64.52,2.38,18.9,4.43,53.83,Fairly Valued
+LTIM,LTIMindtree Ltd,Information Technology,2024,Income Opportunity,High dividend yield,64.52,2.38,18.9,4.43,53.83,Fairly Valued
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,2024,Potential Undervaluation,P/E substantially below sector median,14.22,0.81,29.08,2.37,28.59,Expensive Valuation
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,2024,Potential Undervaluation,P/B substantially below sector median,14.22,0.81,29.08,2.37,28.59,Expensive Valuation
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/E substantially below sector median,20.78,8.26,29.97,1.78,44.89,Fairly Valued
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/E substantially below sector median,9.54,2.38,33.39,2.18,31.68,Expensive Valuation
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/B substantially below sector median,9.54,2.38,33.39,2.18,31.68,Expensive Valuation
+NAUKRI,Info Edge (India) Ltd,Communication Services,2024,Potential Undervaluation,P/E substantially below sector median,32.88,8.33,11.87,4.29,42.34,Fairly Valued
+NAUKRI,Info Edge (India) Ltd,Communication Services,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,32.88,8.33,11.87,4.29,42.34,Fairly Valued
+NAUKRI,Info Edge (India) Ltd,Communication Services,2024,Income Opportunity,High dividend yield,32.88,8.33,11.87,4.29,42.34,Fairly Valued
+NESTLEIND,Nestle India Ltd,Consumer Staples,2024,Potential Overvaluation,P/B substantially above sector median,54.96,14.34,15.49,3.85,65.54,Fairly Valued
+NESTLEIND,Nestle India Ltd,Consumer Staples,2024,Income Opportunity,High dividend yield,54.96,14.34,15.49,3.85,65.54,Fairly Valued
+NHPC,"NHPC Ltd
+",Energy,2024,Potential Overvaluation,P/E substantially above sector median,71.17,13.74,18.26,1.68,69.51,Fairly Valued
+NHPC,"NHPC Ltd
+",Energy,2024,Potential Overvaluation,P/B substantially above sector median,71.17,13.74,18.26,1.68,69.51,Fairly Valued
+NTPC,NTPC Ltd,Energy,2024,Potential Undervaluation,P/E substantially below sector median,30.8,5.24,37.12,0.06,41.77,Fairly Valued
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,2024,Potential Undervaluation,P/E substantially below sector median,18.15,10.36,11.72,1.11,30.24,Expensive Valuation
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,2024,Potential Overvaluation,P/B substantially above sector median,18.15,10.36,11.72,1.11,30.24,Expensive Valuation
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,18.15,10.36,11.72,1.11,30.24,Expensive Valuation
+PFC,Power Finance Corporation Ltd,Financials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,35.6,6.59,15.67,0.42,32.04,Expensive Valuation
+PIDILITIND,Pidilite Industries Ltd,Materials,2024,Potential Undervaluation,P/E substantially below sector median,36.12,12.3,5.36,1.01,39.84,Expensive Valuation
+PIDILITIND,Pidilite Industries Ltd,Materials,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,36.12,12.3,5.36,1.01,39.84,Expensive Valuation
+PNB,Punjab National Bank,Financials,2024,Potential Undervaluation,P/E substantially below sector median,19.29,10.91,23.64,1.32,42.5,Fairly Valued
+PNB,Punjab National Bank,Financials,2024,Potential Overvaluation,P/B substantially above sector median,19.29,10.91,23.64,1.32,42.5,Fairly Valued
+POWERGRID,Power Grid Corporation of India Ltd,Energy,2024,Income Opportunity,High dividend yield,64.39,5.1,23.07,3.09,56.68,Fairly Valued
+RECLTD,REC Ltd,Financials,2024,Potential Undervaluation,P/B substantially below sector median,31.49,4.59,23.95,2.18,37.26,Expensive Valuation
+RELIANCE,"Reliance Industries Ltd
+",Energy,2024,Potential Undervaluation,P/B substantially below sector median,58.34,3.25,24.96,4.21,55.49,Fairly Valued
+RELIANCE,"Reliance Industries Ltd
+",Energy,2024,Income Opportunity,High dividend yield,58.34,3.25,24.96,4.21,55.49,Fairly Valued
+SBILIFE,SBI Life Insurance Company Ltd,Financials,2024,Potential Overvaluation,P/E substantially above sector median,69.98,9.48,31.04,1.62,73.18,Attractive Valuation
+SBIN,State Bank of India,,2024,Potential Undervaluation,P/B substantially below sector median,54.93,2.72,21.53,0.42,36.28,Expensive Valuation
+SHREECEM,Shree Cement Ltd,Materials,2024,Potential Undervaluation,P/E substantially below sector median,25.87,1.21,26.58,3.2,34.62,Expensive Valuation
+SHREECEM,Shree Cement Ltd,Materials,2024,Potential Undervaluation,P/B substantially below sector median,25.87,1.21,26.58,3.2,34.62,Expensive Valuation
+SHREECEM,Shree Cement Ltd,Materials,2024,Income Opportunity,High dividend yield,25.87,1.21,26.58,3.2,34.62,Expensive Valuation
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,2024,Potential Overvaluation,P/E substantially above sector median,68.53,7.91,28.82,1.86,67.12,Fairly Valued
+SIEMENS,Siemens Ltd,Industrials,2024,Income Opportunity,High dividend yield,33.32,9.25,30.88,3.69,59.08,Fairly Valued
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,2024,Income Opportunity,High dividend yield,37.9,6.71,21.41,3.88,49.67,Fairly Valued
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,2024,Potential Overvaluation,P/E substantially above sector median,67.07,0.93,15.35,3.65,46.79,Fairly Valued
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/B substantially below sector median,67.07,0.93,15.35,3.65,46.79,Fairly Valued
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,67.07,0.93,15.35,3.65,46.79,Fairly Valued
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,67.07,0.93,15.35,3.65,46.79,Fairly Valued
+TATAPOWER,"Tata Power Company Ltd
+",Energy,2024,Potential Undervaluation,P/E substantially below sector median,14.5,3.48,12.02,0.49,10.62,Expensive Valuation
+TATAPOWER,"Tata Power Company Ltd
+",Energy,2024,Potential Undervaluation,P/B substantially below sector median,14.5,3.48,12.02,0.49,10.62,Expensive Valuation
+TATAPOWER,"Tata Power Company Ltd
+",Energy,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,14.5,3.48,12.02,0.49,10.62,Expensive Valuation
+TECHM,Tech Mahindra Ltd,Information Technology,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,57.4,7.43,7.85,0.64,40.11,Fairly Valued
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,2024,Potential Undervaluation,P/E substantially below sector median,10.13,10.51,21.0,3.1,41.33,Fairly Valued
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,2024,Income Opportunity,High dividend yield,10.13,10.51,21.0,3.1,41.33,Fairly Valued
+TRENT,Trent Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/E substantially below sector median,8.65,11.82,34.65,3.46,55.79,Fairly Valued
+TRENT,Trent Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,8.65,11.82,34.65,3.46,55.79,Fairly Valued
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,2024,Potential Undervaluation,P/B substantially below sector median,46.1,5.62,7.1,3.07,35.82,Expensive Valuation
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,2024,Potential Undervaluation,EV/EBITDA substantially below sector median,46.1,5.62,7.1,3.07,35.82,Expensive Valuation
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,2024,Income Opportunity,High dividend yield,46.1,5.62,7.1,3.07,35.82,Expensive Valuation
