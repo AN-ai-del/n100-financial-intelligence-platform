@@ -1,0 +1,81 @@
+company_id,metric_type,period_years,period_label,value_pct,raw_text,computed_value_pct,divergence_pct_points,calculation_status,manual_review_flag,validation_status,review_reason
+HDFCBANK,compounded_sales_growth,10,10 Year,21.0,10 Years: 21%,20.888,0.112,Calculated,False,MATCH,
+HDFCBANK,compounded_profit_growth,10,10 Year,22.0,10 Years: 22%,22.2639,0.2639,Calculated,False,MATCH,
+HDFCBANK,stock_price_cagr,10,10 Year,15.0,10 Years:     15%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+HDFCBANK,roe,10,10 Year,17.0,10 Years:     17%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+SBILIFE,compounded_sales_growth,5,5 Year,24.0,5 Years:       24%,24.2316,0.2316,Calculated,False,MATCH,
+SBILIFE,compounded_profit_growth,5,5 Year,6.0,5 Years:            6%,7.3747,1.3747,Calculated,False,MATCH,
+SBILIFE,stock_price_cagr,5,5 Year,8.0,5 Years:       8%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+SBILIFE,roe,5,5 Year,14.0,5 Years          14%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+SBILIFE,compounded_sales_growth,3,3 Year,17.0,3 Years:       17%,17.2359,0.2359,Calculated,False,MATCH,
+SBILIFE,compounded_profit_growth,3,3 Year,9.0,3 Years:            9%,9.1623,0.1623,Calculated,False,MATCH,
+SBILIFE,stock_price_cagr,3,3 Year,7.0,3 Years:       7%,18.8738,11.8738,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+SBILIFE,roe,3,3 Year,13.0,3 Years:         13%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+SBILIFE,compounded_sales_growth,0,TTM,43.0,TTM:            43%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+SBILIFE,compounded_profit_growth,0,TTM,18.0,TTM:                 18%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+SBILIFE,stock_price_cagr,1,1 Year,-2.0,1 Year:         -2%,36.7881,38.7881,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+SBILIFE,roe,1,Last Year,12.0,Last Year:      12%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+TCS,compounded_sales_growth,10,10 Year,11.0,10 Years:     11%,11.4044,0.4044,Calculated,False,MATCH,
+TCS,compounded_profit_growth,10,10 Year,9.0,10 Years:          9%,9.0791,0.0791,Calculated,False,MATCH,
+TCS,stock_price_cagr,10,10 Year,14.0,10 Years:      14%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+TCS,roe,10,10 Year,40.0,10 Years:       40%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+TCS,compounded_sales_growth,5,5 Year,10.0,5 Years:       10%,10.4636,0.4636,Calculated,False,MATCH,
+TCS,compounded_profit_growth,5,5 Year,8.0,5 Years:            8%,7.8712,0.1288,Calculated,False,MATCH,
+TCS,stock_price_cagr,5,5 Year,16.0,5 Years:      16%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+TCS,roe,5,5 Year,44.0,5 Years:          44%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+TCS,compounded_sales_growth,3,3 Year,14.0,3 Years:       14%,13.6329,0.3671,Calculated,False,MATCH,
+TCS,compounded_profit_growth,3,3 Year,12.0,3 Years:            12%,12.2863,0.2863,Calculated,False,MATCH,
+TCS,stock_price_cagr,3,3 Year,8.0,3 Years:      8%,0.1897,7.8103,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+TCS,roe,3,3 Year,47.0,3 Years:          47%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+TCS,compounded_sales_growth,0,TTM,5.0,TTM:            5%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+TCS,compounded_profit_growth,0,TTM,8.0,TTM:                 8%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+TCS,stock_price_cagr,1,1 Year,16.0,1 Year:       16%,1.4214,14.5786,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+TCS,roe,1,Last Year,52.0,Last Year:       52%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+WIPRO,compounded_sales_growth,10,10 Year,8.0,10 Years:     8%,7.5314,0.4686,Calculated,False,MATCH,
+WIPRO,compounded_profit_growth,10,10 Year,3.0,10 Years:          3%,3.3521,0.3521,Calculated,False,MATCH,
+WIPRO,stock_price_cagr,10,10 Year,12.0,10 Years:     12%,,,Insufficient history,False,NOT VALIDATED,Insufficient history
+WIPRO,roe,10,10 Year,18.0,10 Years:        18%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+WIPRO,compounded_sales_growth,5,5 Year,9.0,5 Years:       9%,8.7472,0.2528,Calculated,False,MATCH,
+WIPRO,compounded_profit_growth,5,5 Year,4.0,5 Years:            4%,4.2645,0.2645,Calculated,False,MATCH,
+WIPRO,stock_price_cagr,5,5 Year,20.0,5 Years:     20%,,,Insufficient history,False,NOT VALIDATED,Insufficient history
+WIPRO,roe,5,5 Year,17.0,5 Years:          17%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+WIPRO,compounded_sales_growth,3,3 Year,13.0,3 Years:      13%,13.1659,0.1659,Calculated,False,MATCH,
+WIPRO,compounded_profit_growth,3,3 Year,0.0,3 Years:            0%,0.7428,0.7428,Calculated,False,MATCH,
+WIPRO,stock_price_cagr,3,3 Year,-1.0,3 Years:      -1%,,,Insufficient history,False,NOT VALIDATED,Insufficient history
+WIPRO,roe,3,3 Year,17.0,3 Years:          17%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+HDFCBANK,compounded_sales_growth,5,5 Year,22.0,5 Years:       22%,21.951,0.049,Calculated,False,MATCH,
+HDFCBANK,compounded_profit_growth,5,5 Year,23.0,5 Years:           23%,23.8651,0.8651,Calculated,False,MATCH,
+HDFCBANK,stock_price_cagr,5,5 Year,8.0,5 Years:       8%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+HDFCBANK,roe,5,5 Year,17.0,5 Years:       17%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+WIPRO,compounded_sales_growth,0,TTM,-3.0,TTM:           -3%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+WIPRO,compounded_profit_growth,0,TTM,1.0,TTM:                 1%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+WIPRO,stock_price_cagr,1,1 Year,39.0,1 Year:       39%,,,Insufficient history,False,NOT VALIDATED,Insufficient history
+WIPRO,roe,1,Last Year,14.0,Last Year:       14%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+HDFCBANK,compounded_sales_growth,3,3 Year,30.0,3 Years:       30%,30.187,0.187,Calculated,False,MATCH,
+HDFCBANK,compounded_profit_growth,3,3 Year,26.0,3 Years:           26%,27.1236,1.1236,Calculated,False,MATCH,
+HDFCBANK,stock_price_cagr,3,3 Year,8.0,3 Years:       8%,1.9833,6.0167,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+HDFCBANK,roe,3,3 Year,17.0,3 Years:       17%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+HDFCBANK,compounded_sales_growth,0,TTM,47.0,TTM:            47%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+HDFCBANK,compounded_profit_growth,0,TTM,27.0,TTM:                27%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+HDFCBANK,stock_price_cagr,1,1 Year,13.0,1 Year:        13%,2.6665,10.3335,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+HDFCBANK,roe,1,Last Year,17.0,Last Year:    17%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+INFY,compounded_sales_growth,10,10 Year,12.0,10 Years:     12%,11.8527,0.1473,Calculated,False,MATCH,
+INFY,compounded_profit_growth,10,10 Year,9.0,10 Years:         9%,9.4335,0.4335,Calculated,False,MATCH,
+INFY,stock_price_cagr,10,10 Year,15.0,10 Years:     15%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+INFY,roe,10,10 Year,27.0,10 Years:      27%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+INFY,compounded_sales_growth,5,5 Year,13.0,5 Years:       13%,13.1991,0.1991,Calculated,False,MATCH,
+INFY,compounded_profit_growth,5,5 Year,11.0,5 Years:           11%,11.2394,0.2394,Calculated,False,MATCH,
+INFY,stock_price_cagr,5,5 Year,22.0,5 Years:     22%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+INFY,roe,5,5 Year,29.0,5 Years:        29%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+INFY,compounded_sales_growth,3,3 Year,5.0,3 Years:       5%,15.2165,10.2165,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+INFY,compounded_profit_growth,3,3 Year,10.0,3 Years:           10%,10.5588,0.5588,Calculated,False,MATCH,
+INFY,stock_price_cagr,3,3 Year,4.0,3 Years:     4%,22.5719,18.5719,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+INFY,roe,3,3 Year,31.0,3 Years:        31%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+INFY,compounded_sales_growth,0,TTM,3.0,TTM:            3%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+INFY,compounded_profit_growth,0,TTM,8.0,TTM:                 8%,,,TTM validation not applicable,False,NOT VALIDATED,TTM validation not applicable
+INFY,stock_price_cagr,1,1 Year,27.0,1 Year:       27%,32.8629,5.8629,Calculated,True,MANUAL REVIEW,Parsed value differs from calculated value by more than 5.0 percentage points
+INFY,roe,1,Last Year,32.0,Last Year:     32%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric
+SBILIFE,compounded_sales_growth,10,10 Year,23.0,10 Years:     23%,22.5616,0.4384,Calculated,False,MATCH,
+SBILIFE,compounded_profit_growth,10,10 Year,9.0,10 Years:          9%,10.0335,1.0335,Calculated,False,MATCH,
+SBILIFE,stock_price_cagr,10,10 Year,9.0,10 Years:      9%,,,Insufficient period coverage,False,NOT VALIDATED,Insufficient period coverage
+SBILIFE,roe,10,10 Year,16.0,10 Years:      16%,,,ROE is not a CAGR metric,False,NOT VALIDATED,ROE is not a CAGR metric

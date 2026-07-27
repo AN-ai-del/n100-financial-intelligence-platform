@@ -1,0 +1,36 @@
+category,check,status,details
+Database,Database file exists,PASS,C:\Users\ASUS\nifty100_project\db\nifty100.db
+Database,Required table: companies,PASS,
+Database,Required table: financial_ratios,PASS,
+Database,Required table: market_cap,PASS,
+Coverage,Official company universe loaded,PASS,92 companies
+Coverage,Financial-ratio company coverage,PASS,92 companies
+Coverage,Market-cap company coverage,PASS,92 companies
+Output,capital_allocation.csv,PASS,"111,700 bytes"
+Output,valuation_summary.xlsx,PASS,"28,716 bytes"
+Output,valuation_flags.csv,PASS,"23,985 bytes"
+Valuation,Sheet exists: Company Valuation,PASS,
+Valuation,Sheet exists: Sector Summary,PASS,
+Valuation,Sheet exists: Valuation Categories,PASS,
+Valuation,Column exists: company_id,PASS,
+Valuation,Column exists: company_name,PASS,
+Valuation,Column exists: pe_ratio,PASS,
+Valuation,Column exists: pb_ratio,PASS,
+Valuation,Column exists: ev_ebitda,PASS,
+Valuation,Column exists: valuation_score,PASS,
+Valuation,Column exists: valuation_category,PASS,
+Valuation,Valuation company coverage,PASS,92 companies
+Valuation,Valuation scores within 0-100,PASS,
+Capital Allocation,Company coverage,PASS,92 companies
+Capital Allocation,Allocation patterns generated,PASS,9 patterns
+Dashboard,Dashboard App exists,PASS,C:\Users\ASUS\nifty100_project\src\dashboard\app.py (769 bytes)
+Dashboard,Home Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\01_home.py (10,258 bytes)"
+Dashboard,Company Profile Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\02_profile.py (24,278 bytes)"
+Dashboard,Financial Screener Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\03_screener.py (23,616 bytes)"
+Dashboard,Peer Comparison Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\04_peers.py (24,139 bytes)"
+Dashboard,Financial Trends Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\05_trends.py (21,583 bytes)"
+Dashboard,Sector Analysis Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\06_sectors.py (20,482 bytes)"
+Dashboard,Capital Allocation Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\07_capital.py (13,446 bytes)"
+Dashboard,Annual Reports Page exists,PASS,"C:\Users\ASUS\nifty100_project\src\dashboard\pages\08_reports.py (16,364 bytes)"
+Reports,documents.xlsx exists,PASS,C:\Users\ASUS\nifty100_project\data\raw\documents.xlsx
+Reports,Documents dataset readable,PASS,1586 rows

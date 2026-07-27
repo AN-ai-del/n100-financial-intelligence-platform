@@ -1,0 +1,86 @@
+company_name,review_status,notes,companies_rows,companies_years,profitandloss_rows,profitandloss_years,balancesheet_rows,balancesheet_years,cashflow_rows,cashflow_years,stock_prices_rows,stock_prices_years
+id,WARNING,"Error checking companies: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM companies
+    WHERE mkt_fintech_—_nifty_100__|__companies__|__92_records = ?;
+    ': no such column: mkt_fintech_—_nifty_100__; Error checking profitandloss: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM profitandloss
+    WHERE bluestock_fintech_—_nifty_100__|__profit_and_loss__|__1,276_records = ?;
+    ': near "","": syntax error; Error checking balancesheet: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM balancesheet
+    WHERE bluestock_fintech_—_nifty_100__|__balance_sheet__|__1,312_records = ?;
+    ': near "","": syntax error; Error checking cashflow: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM cashflow
+    WHERE bluestock_fintech_—_nifty_100__|__cash_flow__|__1,187_records = ?;
+    ': near "","": syntax error; No rows found in stock_prices",0,,0,,0,,0,,0,
+ABB,WARNING,"Error checking companies: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM companies
+    WHERE mkt_fintech_—_nifty_100__|__companies__|__92_records = ?;
+    ': no such column: mkt_fintech_—_nifty_100__; Error checking profitandloss: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM profitandloss
+    WHERE bluestock_fintech_—_nifty_100__|__profit_and_loss__|__1,276_records = ?;
+    ': near "","": syntax error; Error checking balancesheet: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM balancesheet
+    WHERE bluestock_fintech_—_nifty_100__|__balance_sheet__|__1,312_records = ?;
+    ': near "","": syntax error; Error checking cashflow: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM cashflow
+    WHERE bluestock_fintech_—_nifty_100__|__cash_flow__|__1,187_records = ?;
+    ': near "","": syntax error; No rows found in stock_prices",0,,0,,0,,0,,0,
+ADANIENSOL,WARNING,"Error checking companies: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM companies
+    WHERE mkt_fintech_—_nifty_100__|__companies__|__92_records = ?;
+    ': no such column: mkt_fintech_—_nifty_100__; Error checking profitandloss: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM profitandloss
+    WHERE bluestock_fintech_—_nifty_100__|__profit_and_loss__|__1,276_records = ?;
+    ': near "","": syntax error; Error checking balancesheet: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM balancesheet
+    WHERE bluestock_fintech_—_nifty_100__|__balance_sheet__|__1,312_records = ?;
+    ': near "","": syntax error; Error checking cashflow: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM cashflow
+    WHERE bluestock_fintech_—_nifty_100__|__cash_flow__|__1,187_records = ?;
+    ': near "","": syntax error; No rows found in stock_prices",0,,0,,0,,0,,0,
+ADANIENT,WARNING,"Error checking companies: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM companies
+    WHERE mkt_fintech_—_nifty_100__|__companies__|__92_records = ?;
+    ': no such column: mkt_fintech_—_nifty_100__; Error checking profitandloss: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM profitandloss
+    WHERE bluestock_fintech_—_nifty_100__|__profit_and_loss__|__1,276_records = ?;
+    ': near "","": syntax error; Error checking balancesheet: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM balancesheet
+    WHERE bluestock_fintech_—_nifty_100__|__balance_sheet__|__1,312_records = ?;
+    ': near "","": syntax error; Error checking cashflow: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM cashflow
+    WHERE bluestock_fintech_—_nifty_100__|__cash_flow__|__1,187_records = ?;
+    ': near "","": syntax error; No rows found in stock_prices",0,,0,,0,,0,,0,
+ADANIGREEN,WARNING,"Error checking companies: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM companies
+    WHERE mkt_fintech_—_nifty_100__|__companies__|__92_records = ?;
+    ': no such column: mkt_fintech_—_nifty_100__; Error checking profitandloss: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM profitandloss
+    WHERE bluestock_fintech_—_nifty_100__|__profit_and_loss__|__1,276_records = ?;
+    ': near "","": syntax error; Error checking balancesheet: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM balancesheet
+    WHERE bluestock_fintech_—_nifty_100__|__balance_sheet__|__1,312_records = ?;
+    ': near "","": syntax error; Error checking cashflow: Execution failed on sql '
+    SELECT COUNT(*) as row_count
+    FROM cashflow
+    WHERE bluestock_fintech_—_nifty_100__|__cash_flow__|__1,187_records = ?;
+    ': near "","": syntax error; No rows found in stock_prices",0,,0,,0,,0,,0,

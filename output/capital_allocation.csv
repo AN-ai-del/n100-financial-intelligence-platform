@@ -1,0 +1,1056 @@
+company_id,year,cfo,cfi,cff,pat,cfo_quality_score,cfo_quality_label,cfo_sign,cfi_sign,cff_sign,pattern_label,data_status
+ABB,2012,101.0,-59.0,-42.0,145.0,0.696551724137931,Moderate,+,-,-,Reinvestor,Available
+ABB,2014,155.0,-144.0,-42.0,198.0,0.7828282828282829,Moderate,+,-,-,Reinvestor,Available
+ABB,2015,215.0,-187.0,-58.0,229.0,0.9388646288209607,Moderate,+,-,-,Reinvestor,Available
+ABB,2016,249.0,-77.0,-80.0,255.0,0.9764705882352941,Moderate,+,-,-,Reinvestor,Available
+ABB,2017,307.0,-155.0,-90.0,277.0,1.108303249097473,High Quality,+,-,-,Shareholder Returns,Available
+ABB,2018,153.0,-215.0,-102.0,401.0,0.38154613466334164,Accrual Risk,+,-,-,Reinvestor,Available
+ABB,2019,499.0,-257.0,-143.0,450.0,1.1088888888888888,High Quality,+,-,-,Shareholder Returns,Available
+ABB,2020,5437.0,-5643.0,1250.0,593.0,9.168634064080944,High Quality,+,-,+,Mixed,Available
+ABB,2021,3784.0,-4009.0,-745.0,691.0,5.476121562952243,High Quality,+,-,-,Shareholder Returns,Available
+ABB,2022,4097.0,-3936.0,-235.0,799.0,5.127659574468085,High Quality,+,-,-,Shareholder Returns,Available
+ABB,2023,3777.0,-4699.0,923.0,949.0,3.9799789251844047,High Quality,+,-,+,Mixed,Available
+ABB,2024,6038.0,-4943.0,-543.0,1201.0,5.027477102414655,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENSOL,2014,0.0,0.0,0.0,0.0,,NOT_AVAILABLE,0,0,0,Other,Available
+ADANIENSOL,2015,-35.0,-1864.0,1902.0,-7.0,5.0,High Quality,-,-,+,Growth Funded by Debt,Available
+ADANIENSOL,2016,1544.0,-816.0,-722.0,368.0,4.195652173913044,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENSOL,2017,2189.0,-1730.0,-455.0,416.0,5.262019230769231,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENSOL,2018,2198.0,-3192.0,1589.0,1143.0,1.9230096237970253,High Quality,+,-,+,Mixed,Available
+ADANIENSOL,2019,2591.0,-3050.0,38.0,559.0,4.635062611806798,High Quality,+,-,+,Mixed,Available
+ADANIENSOL,2020,5437.0,-5643.0,1250.0,706.0,7.701133144475921,High Quality,+,-,+,Mixed,Available
+ADANIENSOL,2021,3784.0,-4009.0,-745.0,1290.0,2.933333333333333,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENSOL,2022,4097.0,-3936.0,-235.0,1236.0,3.3147249190938513,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENSOL,2023,3777.0,-4699.0,923.0,1281.0,2.9484777517564402,High Quality,+,-,+,Mixed,Available
+ADANIENSOL,2024,6038.0,-4943.0,-543.0,1196.0,5.048494983277592,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENT,2013,7666.0,-14790.0,7199.0,1218.0,6.293924466338259,High Quality,+,-,+,Mixed,Available
+ADANIENT,2014,8228.0,-8007.0,-1109.0,2646.0,3.109599395313681,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENT,2015,8532.0,-11465.0,3445.0,2298.0,3.7127937336814623,High Quality,+,-,+,Mixed,Available
+ADANIENT,2016,5112.0,-1825.0,-3448.0,1000.0,5.112,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENT,2017,774.0,-1460.0,716.0,925.0,0.8367567567567568,Moderate,+,-,+,Mixed,Available
+ADANIENT,2018,2942.0,-7649.0,5120.0,594.0,4.952861952861953,High Quality,+,-,+,Mixed,Available
+ADANIENT,2019,3236.0,2487.0,-6158.0,506.0,6.395256916996048,High Quality,+,+,-,Liquidating Assets,Available
+ADANIENT,2020,2454.0,-1082.0,-221.0,1040.0,2.3596153846153847,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENT,2021,4043.0,-8611.0,3109.0,1046.0,3.8652007648183555,High Quality,+,-,+,Mixed,Available
+ADANIENT,2022,1385.0,-17041.0,15901.0,788.0,1.7576142131979695,High Quality,+,-,+,Mixed,Available
+ADANIENT,2023,17626.0,-15459.0,-1198.0,2422.0,7.277456647398844,High Quality,+,-,-,Shareholder Returns,Available
+ADANIENT,2024,10312.0,-18767.0,8879.0,3335.0,3.0920539730134933,High Quality,+,-,+,Mixed,Available
+ADANIGREEN,2017,28.0,-1511.0,1559.0,-47.0,-0.5957446808510638,Accrual Risk,+,-,+,Mixed,Available
+ADANIGREEN,2018,649.0,-4428.0,3942.0,-138.0,-4.702898550724638,Accrual Risk,+,-,+,Mixed,Available
+ADANIGREEN,2019,1625.0,-2666.0,1045.0,-475.0,-3.4210526315789473,Accrual Risk,+,-,+,Mixed,Available
+ADANIGREEN,2020,1965.0,-3743.0,2161.0,-68.0,-28.897058823529413,Accrual Risk,+,-,+,Mixed,Available
+ADANIGREEN,2021,1601.0,-9137.0,7083.0,182.0,8.796703296703297,High Quality,+,-,+,Mixed,Available
+ADANIGREEN,2022,3127.0,-18730.0,15986.0,489.0,6.394683026584867,High Quality,+,-,+,Mixed,Available
+ADANIGREEN,2023,7265.0,-3857.0,-2973.0,973.0,7.466598150051388,High Quality,+,-,-,Shareholder Returns,Available
+ADANIGREEN,2024,7713.0,-21060.0,13953.0,1260.0,6.121428571428571,High Quality,+,-,+,Mixed,Available
+ADANIPORTS,2013,1379.0,-5136.0,4138.0,1639.0,0.8413666870042709,Moderate,+,-,+,Mixed,Available
+ADANIPORTS,2014,1132.0,-2510.0,772.0,1741.0,0.6502010338885698,Moderate,+,-,+,Mixed,Available
+ADANIPORTS,2015,3057.0,-2485.0,-237.0,2324.0,1.3154044750430292,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPORTS,2016,2381.0,-4153.0,2170.0,2856.0,0.8336834733893558,Moderate,+,-,+,Mixed,Available
+ADANIPORTS,2017,4063.0,-2629.0,-1325.0,3902.0,1.0412608918503332,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPORTS,2018,5608.0,-3846.0,-1889.0,3690.0,1.5197831978319782,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPORTS,2019,6029.0,-4368.0,2313.0,4045.0,1.4904820766378244,High Quality,+,-,+,Mixed,Available
+ADANIPORTS,2020,7402.0,-749.0,-4256.0,3785.0,1.9556142668428005,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPORTS,2021,7556.0,-14064.0,3514.0,5049.0,1.4965339671222024,High Quality,+,-,+,Mixed,Available
+ADANIPORTS,2022,10420.0,-5493.0,-586.0,4953.0,2.103775489602261,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPORTS,2023,11900.0,-16716.0,-2734.0,5391.0,2.2073826748284175,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPORTS,2024,15018.0,-6768.0,-7800.0,8104.0,1.8531589338598222,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPOWER,2013,3001.0,-4064.0,861.0,-2295.0,-1.3076252723311548,Accrual Risk,+,-,+,Mixed,Available
+ADANIPOWER,2014,3238.0,-4700.0,1631.0,-291.0,-11.127147766323024,Accrual Risk,+,-,+,Mixed,Available
+ADANIPOWER,2015,5824.0,-4737.0,-1144.0,-816.0,-7.137254901960785,Accrual Risk,+,-,-,Reinvestor,Available
+ADANIPOWER,2016,5257.0,-2692.0,-2713.0,551.0,9.540834845735027,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPOWER,2017,4725.0,-1212.0,-3539.0,-6174.0,-0.7653061224489796,Accrual Risk,+,-,-,Reinvestor,Available
+ADANIPOWER,2018,5101.0,-520.0,-4600.0,-2103.0,-2.425582501188778,Accrual Risk,+,-,-,Reinvestor,Available
+ADANIPOWER,2019,5610.0,-984.0,-4663.0,-984.0,-5.701219512195122,Accrual Risk,+,-,-,Reinvestor,Available
+ADANIPOWER,2020,5598.0,-2304.0,-2377.0,-2275.0,-2.4606593406593404,Accrual Risk,+,-,-,Reinvestor,Available
+ADANIPOWER,2021,7014.0,-2188.0,-5655.0,1270.0,5.522834645669291,High Quality,+,-,-,Shareholder Returns,Available
+ADANIPOWER,2022,10233.0,774.0,-10338.0,4912.0,2.0832654723127035,High Quality,+,+,-,Liquidating Assets,Available
+ADANIPOWER,2023,8431.0,1545.0,-10408.0,10727.0,0.7859606600167801,Moderate,+,+,-,Liquidating Assets,Available
+ADANIPOWER,2024,14170.0,3481.0,-16864.0,20829.0,0.6803015027125642,Moderate,+,+,-,Liquidating Assets,Available
+AMBUJACEM,2012,1860.0,-388.0,-509.0,1292.0,1.4396284829721362,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2013,1267.0,-496.0,-672.0,1278.0,0.9913928012519562,Moderate,+,-,-,Reinvestor,Available
+AMBUJACEM,2014,1675.0,-456.0,-721.0,1487.0,1.1264290517821116,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2015,1557.0,-83.0,-900.0,808.0,1.926980198019802,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2016,2810.0,-4165.0,-958.0,1434.0,1.9595536959553697,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2017,3416.0,-738.0,-1015.0,1945.0,1.7562982005141388,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2018,1703.0,-765.0,-719.0,2973.0,0.5728220652539522,Moderate,+,-,-,Reinvestor,Available
+AMBUJACEM,2019,4739.0,-1191.0,-629.0,2783.0,1.7028386633129715,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2020,4832.0,-1317.0,-3956.0,3107.0,1.5551979401351785,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2021,5309.0,-2007.0,-516.0,3711.0,1.4306116949609269,High Quality,+,-,-,Shareholder Returns,Available
+AMBUJACEM,2023,735.0,-14481.0,2931.0,3024.0,0.24305555555555555,Accrual Risk,+,-,+,Mixed,Available
+AMBUJACEM,2024,5646.0,-8941.0,5689.0,4738.0,1.1916420430561419,High Quality,+,-,+,Mixed,Available
+APOLLOHOSP,2013,443.0,-733.0,373.0,303.0,1.462046204620462,High Quality,+,-,+,Mixed,Available
+APOLLOHOSP,2014,373.0,-356.0,-63.0,315.0,1.1841269841269841,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2015,470.0,-759.0,392.0,335.0,1.4029850746268657,High Quality,+,-,+,Mixed,Available
+APOLLOHOSP,2016,597.0,-888.0,330.0,235.0,2.5404255319148934,High Quality,+,-,+,Mixed,Available
+APOLLOHOSP,2017,623.0,-1152.0,477.0,131.0,4.755725190839694,High Quality,+,-,+,Mixed,Available
+APOLLOHOSP,2018,537.0,-405.0,-108.0,60.0,8.95,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2019,905.0,-711.0,-215.0,200.0,4.525,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2020,1293.0,-289.0,-910.0,432.0,2.9930555555555554,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2021,1265.0,-880.0,-340.0,137.0,9.233576642335766,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2022,1696.0,-747.0,-792.0,1108.0,1.5306859205776173,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2023,1377.0,-857.0,-633.0,844.0,1.6315165876777251,High Quality,+,-,-,Shareholder Returns,Available
+APOLLOHOSP,2024,1920.0,-1537.0,-311.0,935.0,2.053475935828877,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2013,1187.0,-463.0,-601.0,1160.0,1.0232758620689655,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2014,1402.0,-586.0,-626.0,1263.0,1.110055423594616,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2015,1188.0,-465.0,-576.0,1427.0,0.8325157673440785,Moderate,+,-,-,Reinvestor,Available
+ASIANPAINT,2016,2243.0,-866.0,-849.0,1803.0,1.2440377149195785,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2017,1527.0,-681.0,-756.0,2016.0,0.7574404761904762,Moderate,+,-,-,Reinvestor,Available
+ASIANPAINT,2018,2113.0,-1556.0,-1379.0,2098.0,1.0071496663489037,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2019,2470.0,-918.0,-1117.0,2208.0,1.118659420289855,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2020,3038.0,-518.0,-2871.0,2774.0,1.0951694304253785,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2021,3683.0,-541.0,-650.0,3207.0,1.1484253196133458,High Quality,+,-,-,Shareholder Returns,Available
+ASIANPAINT,2022,986.0,-317.0,-1808.0,3085.0,0.3196110210696921,Accrual Risk,+,-,-,Reinvestor,Available
+ASIANPAINT,2023,4193.0,-1282.0,-2140.0,4195.0,0.999523241954708,Moderate,+,-,-,Reinvestor,Available
+ASIANPAINT,2024,6104.0,-2548.0,-2982.0,5558.0,1.0982367758186398,High Quality,+,-,-,Shareholder Returns,Available
+ATGL,,,,,,,NOT_AVAILABLE,N/A,N/A,N/A,Other,Cash-flow data unavailable
+AXISBANK,2013,2573.0,-10939.0,14931.0,5179.0,0.4968140567677158,Accrual Risk,+,-,+,Mixed,Available
+AXISBANK,2014,14464.0,-14166.0,7785.0,6218.0,2.326149887423609,High Quality,+,-,+,Mixed,Available
+AXISBANK,2015,-15162.0,-7972.0,31045.0,7358.0,-2.060614297363414,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+AXISBANK,2016,-34495.0,9211.0,22495.0,8224.0,-4.19443093385214,Accrual Risk,-,+,+,Distress Signal,Available
+AXISBANK,2017,32209.0,-12458.0,-2487.0,3679.0,8.754824680619734,High Quality,+,-,-,Shareholder Returns,Available
+AXISBANK,2018,-38390.0,-10007.0,41342.0,276.0,-139.09420289855072,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+AXISBANK,2019,37125.0,-18674.0,5643.0,4677.0,7.937780628608082,High Quality,+,-,+,Mixed,Available
+AXISBANK,2020,30416.0,-9485.0,8865.0,1627.0,18.694529809465273,High Quality,+,-,+,Mixed,Available
+AXISBANK,2021,12633.0,-54288.0,7279.0,6588.0,1.9175774134790529,High Quality,+,-,+,Mixed,Available
+AXISBANK,2022,28137.0,-27112.0,47894.0,13025.0,2.1602303262955855,High Quality,+,-,+,Mixed,Available
+AXISBANK,2023,22075.0,-32351.0,6641.0,9580.0,2.3042797494780793,High Quality,+,-,+,Mixed,Available
+AXISBANK,2024,-5555.0,-9001.0,22341.0,24861.0,-0.2234423394071035,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJ-AUTO,2013,2218.0,-1394.0,-1445.0,3133.0,0.7079476540057453,Moderate,+,-,-,Reinvestor,Available
+BAJAJ-AUTO,2014,3502.0,-2072.0,-1496.0,3380.0,1.036094674556213,High Quality,+,-,-,Shareholder Returns,Available
+BAJAJ-AUTO,2015,2114.0,-380.0,-1644.0,3026.0,0.6986120290812955,Moderate,+,-,-,Reinvestor,Available
+BAJAJ-AUTO,2016,3690.0,-68.0,-3384.0,4061.0,0.9086431913321842,Moderate,+,-,-,Reinvestor,Available
+BAJAJ-AUTO,2017,3267.0,-3610.0,-190.0,4079.0,0.8009316008825692,Moderate,+,-,-,Reinvestor,Available
+BAJAJ-AUTO,2018,4328.0,-1954.0,-1885.0,4219.0,1.0258355060440862,High Quality,+,-,-,Shareholder Returns,Available
+BAJAJ-AUTO,2019,2487.0,-273.0,-2074.0,4928.0,0.5046672077922078,Moderate,+,-,-,Reinvestor,Available
+BAJAJ-AUTO,2020,3850.0,1766.0,-6247.0,5212.0,0.7386799693016116,Moderate,+,+,-,Liquidating Assets,Available
+BAJAJ-AUTO,2021,3120.0,-2869.0,-20.0,4857.0,0.6423718344657195,Moderate,+,-,-,Reinvestor,Available
+BAJAJ-AUTO,2022,4197.0,276.0,-4056.0,6166.0,0.6806681803438209,Moderate,+,+,-,Liquidating Assets,Available
+BAJAJ-AUTO,2023,5277.0,1211.0,-7181.0,6060.0,0.8707920792079208,Moderate,+,+,-,Liquidating Assets,Available
+BAJAJ-AUTO,2024,6558.0,-72.0,-6167.0,7708.0,0.8508043591074209,Moderate,+,-,-,Reinvestor,Available
+BAJAJFINSV,2013,-6922.0,2953.0,4592.0,2214.0,-3.1264679313459802,Accrual Risk,-,+,+,Distress Signal,Available
+BAJAJFINSV,2014,-9807.0,3764.0,6521.0,2191.0,-4.476038338658147,Accrual Risk,-,+,+,Distress Signal,Available
+BAJAJFINSV,2015,-10731.0,3709.0,6839.0,2409.0,-4.454545454545454,Accrual Risk,-,+,+,Distress Signal,Available
+BAJAJFINSV,2016,-9795.0,-886.0,11602.0,2775.0,-3.5297297297297296,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJFINSV,2017,-10922.0,151.0,12513.0,3450.0,-3.165797101449275,Accrual Risk,-,+,+,Distress Signal,Available
+BAJAJFINSV,2018,-19580.0,-922.0,19590.0,4176.0,-4.688697318007663,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJFINSV,2019,-27076.0,-6903.0,34535.0,5374.0,-5.038332713062895,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJFINSV,2020,-23369.0,-9948.0,34479.0,5994.0,-3.898732065398732,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJFINSV,2021,4547.0,-3684.0,1687.0,7367.0,0.6172118908646668,Moderate,+,-,+,Mixed,Available
+BAJAJFINSV,2022,-33670.0,1445.0,32326.0,8314.0,-4.049795525619437,Accrual Risk,-,+,+,Distress Signal,Available
+BAJAJFINSV,2023,-39480.0,-13945.0,51016.0,12210.0,-3.2334152334152333,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJFINSV,2024,-68674.0,-10960.0,82709.0,15595.0,-4.403590894517474,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJAJHLDNG,2013,473.0,-369.0,-332.0,1856.0,0.2548491379310345,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2014,872.0,-519.0,-326.0,1988.0,0.4386317907444668,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2015,796.0,-464.0,-391.0,2029.0,0.39231148348940365,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2016,1147.0,1019.0,-761.0,2265.0,0.506401766004415,Moderate,+,+,-,Liquidating Assets,Available
+BAJAJHLDNG,2017,-923.0,-372.0,-110.0,2473.0,-0.3732308936514355,Accrual Risk,-,-,-,Pre-Revenue,Available
+BAJAJHLDNG,2018,1631.0,-1123.0,-434.0,2655.0,0.6143126177024482,Moderate,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2019,628.0,-163.0,-536.0,3048.0,0.20603674540682415,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2020,1920.0,-800.0,-1028.0,3080.0,0.6233766233766234,Moderate,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2021,272.0,-308.0,-37.0,3654.0,0.07443897099069513,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2022,1610.0,-151.0,-1460.0,4126.0,0.39020843431895297,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2023,1728.0,-137.0,-1587.0,4946.0,0.3493732308936514,Accrual Risk,+,-,-,Reinvestor,Available
+BAJAJHLDNG,2024,1941.0,-472.0,-1455.0,7365.0,0.26354378818737273,Accrual Risk,+,-,-,Reinvestor,Available
+BAJFINANCE,2015,-7064.0,-360.0,6867.0,898.0,-7.866369710467706,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2016,-9870.0,-687.0,11656.0,1279.0,-7.716966379984362,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2017,-10439.0,-3047.0,12513.0,1836.0,-5.685729847494553,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2018,-20566.0,1075.0,19503.0,2496.0,-8.239583333333334,Accrual Risk,-,+,+,Distress Signal,Available
+BAJFINANCE,2019,-29062.0,-5379.0,34449.0,3995.0,-7.27459324155194,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2020,-24412.0,-8758.0,34167.0,5264.0,-4.637537993920972,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2021,-807.0,-429.0,1741.0,4420.0,-0.18257918552036198,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2022,-37090.0,6347.0,32275.0,7028.0,-5.277461582242458,Accrual Risk,-,+,+,Distress Signal,Available
+BAJFINANCE,2023,-42112.0,-10394.0,50675.0,11508.0,-3.659367396593674,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BAJFINANCE,2024,-72760.0,-7171.0,82415.0,14451.0,-5.034945678499758,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BANKBARODA,2013,23196.0,-514.0,-790.0,4829.0,4.803478981155519,High Quality,+,-,-,Shareholder Returns,Available
+BANKBARODA,2014,42233.0,-730.0,5151.0,5036.0,8.386219221604447,High Quality,+,-,+,Mixed,Available
+BANKBARODA,2015,17838.0,-556.0,-6.0,3950.0,4.5159493670886075,High Quality,+,-,-,Shareholder Returns,Available
+BANKBARODA,2016,-10011.0,-4005.0,-616.0,-5033.0,1.9890721239817206,High Quality,-,-,-,Pre-Revenue,Available
+BANKBARODA,2017,17865.0,-551.0,-198.0,1855.0,9.630727762803234,High Quality,+,-,-,Shareholder Returns,Available
+BANKBARODA,2018,-59692.0,-414.0,3413.0,-1836.0,32.5119825708061,High Quality,-,-,+,Growth Funded by Debt,Available
+BANKBARODA,2019,-1449.0,-2537.0,4449.0,1166.0,-1.2427101200686106,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BANKBARODA,2020,18531.0,-139.0,14729.0,981.0,18.889908256880734,High Quality,+,-,+,Mixed,Available
+BANKBARODA,2021,-887.0,-471.0,-986.0,1620.0,-0.5475308641975308,Accrual Risk,-,-,-,Pre-Revenue,Available
+BANKBARODA,2022,6210.0,-3645.0,-998.0,7933.0,0.7828060002521114,Moderate,+,-,-,Reinvestor,Available
+BANKBARODA,2023,-21354.0,-1096.0,-5405.0,15005.0,-1.423125624791736,Accrual Risk,-,-,-,Pre-Revenue,Available
+BANKBARODA,2024,-6274.0,-1285.0,5476.0,18869.0,-0.3325030473263024,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+BEL,2013,-1539.0,1753.0,-158.0,911.0,-1.6893523600439078,Accrual Risk,-,+,-,Other,Available
+BEL,2014,-569.0,759.0,-213.0,952.0,-0.5976890756302521,Accrual Risk,-,+,-,Other,Available
+BEL,2015,1434.0,-839.0,-209.0,1197.0,1.1979949874686717,High Quality,+,-,-,Shareholder Returns,Available
+BEL,2016,2260.0,-1470.0,-318.0,1337.0,1.6903515332834704,High Quality,+,-,-,Shareholder Returns,Available
+BEL,2017,-61.0,3115.0,-2857.0,1523.0,-0.04005252790544977,Accrual Risk,-,+,-,Other,Available
+BEL,2018,-687.0,-6.0,-1202.0,1431.0,-0.480083857442348,Accrual Risk,-,-,-,Pre-Revenue,Available
+BEL,2019,1514.0,-896.0,-663.0,1887.0,0.8023317435082141,Moderate,+,-,-,Reinvestor,Available
+BEL,2020,2570.0,-649.0,-1061.0,1825.0,1.4082191780821918,High Quality,+,-,-,Shareholder Returns,Available
+BEL,2021,5093.0,-2595.0,-1076.0,2100.0,2.4252380952380954,High Quality,+,-,-,Shareholder Returns,Available
+BEL,2022,4207.0,-4872.0,-1078.0,2400.0,1.7529166666666667,High Quality,+,-,-,Shareholder Returns,Available
+BEL,2023,1199.0,2708.0,-1262.0,2986.0,0.4015405224380442,Accrual Risk,+,+,-,Liquidating Assets,Available
+BEL,2024,4659.0,-5924.0,-1475.0,3985.0,1.1691342534504392,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2013,22608.0,-18676.0,-4566.0,2267.0,9.972651080723423,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2014,26233.0,-25181.0,2774.0,3019.0,8.689301093077178,High Quality,+,-,+,Mixed,Available
+BHARTIARTL,2015,28059.0,-22301.0,-9672.0,5048.0,5.558438985736926,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2016,27942.0,-14091.0,-11946.0,6893.0,4.053677643986653,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2017,28280.0,-30680.0,-351.0,4241.0,6.668238622966282,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2018,29854.0,-27940.0,1920.0,2184.0,13.66941391941392,High Quality,+,-,+,Mixed,Available
+BHARTIARTL,2019,20070.0,-28286.0,9464.0,1688.0,11.889810426540285,High Quality,+,-,+,Mixed,Available
+BHARTIARTL,2020,18129.0,-29598.0,19144.0,-30664.0,-0.5912144534307331,Accrual Risk,+,-,+,Mixed,Available
+BHARTIARTL,2021,48205.0,-27286.0,-24910.0,-12364.0,-3.8988191523778712,Accrual Risk,+,-,-,Reinvestor,Available
+BHARTIARTL,2022,55017.0,-41478.0,-15203.0,8305.0,6.624563515954245,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2023,65325.0,-39232.0,-24470.0,12287.0,5.31659477496541,High Quality,+,-,-,Shareholder Returns,Available
+BHARTIARTL,2024,78898.0,-51089.0,-27778.0,8558.0,9.219210095816779,High Quality,+,-,-,Shareholder Returns,Available
+BHEL,2013,1759.0,-1113.0,472.0,6693.0,0.26281189302256086,Accrual Risk,+,-,+,Mixed,Available
+BHEL,2014,4512.0,-868.0,523.0,3502.0,1.2884066247858366,High Quality,+,-,+,Mixed,Available
+BHEL,2015,821.0,650.0,-3543.0,1450.0,0.5662068965517242,Moderate,+,+,-,Liquidating Assets,Available
+BHEL,2016,374.0,23.0,-122.0,-706.0,-0.5297450424929179,Accrual Risk,+,+,-,Liquidating Assets,Available
+BHEL,2017,560.0,-565.0,-468.0,455.0,1.2307692307692308,High Quality,+,-,-,Shareholder Returns,Available
+BHEL,2018,989.0,961.0,-667.0,438.0,2.2579908675799087,High Quality,+,+,-,Liquidating Assets,Available
+BHEL,2019,-3860.0,1919.0,-32.0,1002.0,-3.852295409181637,Accrual Risk,-,+,-,Other,Available
+BHEL,2020,-2892.0,1877.0,1622.0,-1468.0,1.9700272479564032,High Quality,-,+,+,Distress Signal,Available
+BHEL,2021,560.0,-42.0,-394.0,-2700.0,-0.2074074074074074,Accrual Risk,+,-,-,Reinvestor,Available
+BHEL,2022,660.0,-1118.0,-329.0,445.0,1.4831460674157304,High Quality,+,-,-,Shareholder Returns,Available
+BHEL,2023,-741.0,1480.0,89.0,654.0,-1.1330275229357798,Accrual Risk,-,+,+,Distress Signal,Available
+BHEL,2024,-3713.0,1331.0,2656.0,282.0,-13.166666666666666,Accrual Risk,-,+,+,Distress Signal,Available
+BOSCHLTD,2012,871.0,-824.0,-156.0,958.0,0.9091858037578288,Moderate,+,-,-,Reinvestor,Available
+BOSCHLTD,2013,1057.0,-846.0,-238.0,885.0,1.1943502824858756,High Quality,+,-,-,Shareholder Returns,Available
+BOSCHLTD,2015,1396.0,-1183.0,-237.0,1338.0,1.0433482810164425,High Quality,+,-,-,Shareholder Returns,Available
+BOSCHLTD,2016,1318.0,-995.0,-356.0,1531.0,0.8608752449379491,Moderate,+,-,-,Reinvestor,Available
+BOSCHLTD,2017,1457.0,1246.0,-2670.0,1741.0,0.8368753589890867,Moderate,+,+,-,Liquidating Assets,Available
+BOSCHLTD,2018,1729.0,-1170.0,-325.0,1371.0,1.261123267687819,High Quality,+,-,-,Shareholder Returns,Available
+BOSCHLTD,2019,593.0,1766.0,-2531.0,1598.0,0.3710888610763454,Accrual Risk,+,+,-,Liquidating Assets,Available
+BOSCHLTD,2020,1336.0,-873.0,-399.0,650.0,2.0553846153846154,High Quality,+,-,-,Shareholder Returns,Available
+BOSCHLTD,2021,835.0,-463.0,-338.0,482.0,1.7323651452282158,High Quality,+,-,-,Shareholder Returns,Available
+BOSCHLTD,2022,271.0,-33.0,-383.0,1217.0,0.22267871815940837,Accrual Risk,+,-,-,Reinvestor,Available
+BOSCHLTD,2023,1214.0,262.0,-1239.0,1424.0,0.8525280898876404,Moderate,+,+,-,Liquidating Assets,Available
+BOSCHLTD,2024,1253.0,283.0,-1452.0,2490.0,0.5032128514056224,Moderate,+,+,-,Liquidating Assets,Available
+BPCL,2013,5926.0,-3604.0,-846.0,1936.0,3.0609504132231407,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2014,9588.0,-6881.0,-3736.0,4053.0,2.3656550703182826,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2015,20742.0,-10536.0,-9792.0,5082.0,4.0814639905549,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2016,11119.0,-9233.0,-1332.0,8089.0,1.3745827667202373,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2017,9041.0,-15274.0,4804.0,9507.0,0.9509834858525297,Moderate,+,-,+,Mixed,Available
+BPCL,2018,11068.0,-7066.0,-4218.0,9792.0,1.1303104575163399,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2019,10157.0,-10451.0,207.0,8528.0,1.1910178236397748,High Quality,+,-,+,Mixed,Available
+BPCL,2020,7881.0,-11135.0,3583.0,3666.0,2.1497545008183305,High Quality,+,-,+,Mixed,Available
+BPCL,2021,23455.0,-2474.0,-13981.0,17320.0,1.3542147806004619,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2022,20336.0,-8138.0,-17672.0,11682.0,1.7407978085944187,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2023,12466.0,-7806.0,-4402.0,2131.0,5.849835757860159,High Quality,+,-,-,Shareholder Returns,Available
+BPCL,2024,35936.0,-10521.0,-25427.0,26859.0,1.3379500353698945,High Quality,+,-,-,Shareholder Returns,Available
+BRITANNIA,2013,320.0,28.0,-378.0,260.0,1.2307692307692308,High Quality,+,+,-,Liquidating Assets,Available
+BRITANNIA,2014,671.0,-246.0,-357.0,395.0,1.6987341772151898,High Quality,+,-,-,Shareholder Returns,Available
+BRITANNIA,2015,584.0,-450.0,-181.0,689.0,0.8476052249637155,Moderate,+,-,-,Reinvestor,Available
+BRITANNIA,2016,959.0,-705.0,-246.0,825.0,1.1624242424242424,High Quality,+,-,-,Shareholder Returns,Available
+BRITANNIA,2017,441.0,-150.0,-295.0,885.0,0.49830508474576274,Accrual Risk,+,-,-,Reinvestor,Available
+BRITANNIA,2018,1249.0,-957.0,-232.0,1004.0,1.2440239043824701,High Quality,+,-,-,Shareholder Returns,Available
+BRITANNIA,2019,1156.0,-852.0,-353.0,1155.0,1.000865800865801,High Quality,+,-,-,Shareholder Returns,Available
+BRITANNIA,2020,1485.0,-1526.0,58.0,1394.0,1.0652797704447632,High Quality,+,-,+,Mixed,Available
+BRITANNIA,2021,1876.0,433.0,-2242.0,1851.0,1.0135062128579146,High Quality,+,+,-,Liquidating Assets,Available
+BRITANNIA,2022,1300.0,914.0,-2246.0,1516.0,0.8575197889182058,Moderate,+,+,-,Liquidating Assets,Available
+BRITANNIA,2023,2526.0,-1507.0,-1028.0,2316.0,1.0906735751295338,High Quality,+,-,-,Shareholder Returns,Available
+BRITANNIA,2024,2573.0,477.0,-2830.0,2134.0,1.2057169634489222,High Quality,+,+,-,Liquidating Assets,Available
+CANBK,2013,8010.0,-435.0,-1043.0,2995.0,2.674457429048414,High Quality,+,-,-,Shareholder Returns,Available
+CANBK,2014,14244.0,-380.0,-3771.0,2672.0,5.330838323353293,High Quality,+,-,-,Shareholder Returns,Available
+CANBK,2015,6344.0,-1104.0,-1464.0,2931.0,2.1644489935175706,High Quality,+,-,-,Shareholder Returns,Available
+CANBK,2016,9346.0,-443.0,-806.0,-2535.0,-3.686785009861933,Accrual Risk,+,-,-,Reinvestor,Available
+CANBK,2017,2575.0,-476.0,124.0,1411.0,1.824946846208363,High Quality,+,-,+,Mixed,Available
+CANBK,2018,-11120.0,-487.0,2865.0,-3873.0,2.871159308029951,High Quality,-,-,+,Growth Funded by Debt,Available
+CANBK,2019,18237.0,-745.0,-1185.0,696.0,26.20258620689655,High Quality,+,-,-,Shareholder Returns,Available
+CANBK,2020,-5289.0,-445.0,7792.0,-1921.0,2.7532535137948986,High Quality,-,-,+,Growth Funded by Debt,Available
+CANBK,2021,59118.0,-1116.0,290.0,2957.0,19.99256002705445,High Quality,+,-,+,Mixed,Available
+CANBK,2022,919.0,-1429.0,4035.0,6158.0,0.14923676518350112,Accrual Risk,+,-,+,Mixed,Available
+CANBK,2023,-39978.0,-1156.0,445.0,11345.0,-3.523843102688409,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CANBK,2024,15046.0,-1750.0,-3834.0,15401.0,0.9769495487306019,Moderate,+,-,-,Reinvestor,Available
+CHOLAFIN,2013,-3754.0,5.0,4067.0,308.0,-12.188311688311689,Accrual Risk,-,+,+,Distress Signal,Available
+CHOLAFIN,2014,-2447.0,-83.0,2749.0,368.0,-6.649456521739131,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2015,-2264.0,-40.0,1819.0,444.0,-5.099099099099099,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2016,-2809.0,-137.0,3031.0,575.0,-4.885217391304348,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2017,-1468.0,-222.0,1692.0,718.0,-2.0445682451253484,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2018,-7926.0,-60.0,8009.0,918.0,-8.633986928104575,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2019,-9317.0,-11.0,12191.0,1197.0,-7.783625730994152,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2020,-2075.0,-54.0,2452.0,1054.0,-1.9686907020872866,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2021,-8848.0,-1746.0,8707.0,1521.0,-5.817225509533202,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2022,-5571.0,1640.0,5150.0,2154.0,-2.586350974930362,Accrual Risk,-,+,+,Distress Signal,Available
+CHOLAFIN,2023,-27105.0,-2148.0,27466.0,2665.0,-10.170731707317072,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CHOLAFIN,2024,-35683.0,-2855.0,38471.0,3420.0,-10.433625730994152,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+CIPLA,2013,1398.0,-2063.0,718.0,1545.0,0.9048543689320389,Moderate,+,-,+,Mixed,Available
+CIPLA,2014,1563.0,-1265.0,-266.0,1404.0,1.1132478632478633,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2015,1173.0,-950.0,165.0,1229.0,0.9544344995931652,Moderate,+,-,+,Mixed,Available
+CIPLA,2016,1741.0,-4533.0,3104.0,1383.0,1.2588575560375994,High Quality,+,-,+,Mixed,Available
+CIPLA,2017,2382.0,-1304.0,-1326.0,1035.0,2.301449275362319,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2018,1463.0,-834.0,-385.0,1417.0,1.0324629498941424,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2019,1691.0,-1688.0,-349.0,1492.0,1.133378016085791,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2020,3068.0,114.0,-2949.0,1500.0,2.0453333333333332,High Quality,+,+,-,Liquidating Assets,Available
+CIPLA,2021,3755.0,-2374.0,-1240.0,2389.0,1.571787358727501,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2022,3326.0,-1858.0,-1600.0,2547.0,1.3058500196309384,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2023,3238.0,-2376.0,-958.0,2833.0,1.1429579950582422,High Quality,+,-,-,Shareholder Returns,Available
+CIPLA,2024,4134.0,-2982.0,-1200.0,4154.0,0.9951853635050554,Moderate,+,-,-,Reinvestor,Available
+COALINDIA,2013,9109.0,-1833.0,-7852.0,17356.0,0.5248329108089421,Moderate,+,-,-,Reinvestor,Available
+COALINDIA,2014,14525.0,8580.0,-25350.0,15112.0,0.9611566966649021,Moderate,+,+,-,Liquidating Assets,Available
+COALINDIA,2015,14382.0,894.0,-15026.0,13727.0,1.0477161797916514,High Quality,+,+,-,Liquidating Assets,Available
+COALINDIA,2016,13154.0,8154.0,-19587.0,14267.0,0.9219878040232705,Moderate,+,+,-,Liquidating Assets,Available
+COALINDIA,2017,16461.0,455.0,-17598.0,9280.0,1.7738146551724139,High Quality,+,+,-,Liquidating Assets,Available
+COALINDIA,2018,21115.0,-7747.0,-13564.0,7038.0,3.000142085819835,High Quality,+,-,-,Shareholder Returns,Available
+COALINDIA,2019,16356.0,-7896.0,-10885.0,17464.0,0.9365551992670637,Moderate,+,-,-,Reinvestor,Available
+COALINDIA,2020,4977.0,1033.0,-4791.0,16700.0,0.2980239520958084,Accrual Risk,+,+,-,Liquidating Assets,Available
+COALINDIA,2021,10592.0,182.0,-8453.0,12702.0,0.8338844276491891,Moderate,+,+,-,Liquidating Assets,Available
+COALINDIA,2022,41107.0,-25715.0,-13441.0,17378.0,2.365462078490045,High Quality,+,-,-,Shareholder Returns,Available
+COALINDIA,2023,35734.0,-23465.0,-13704.0,31723.0,1.1264382309365444,High Quality,+,-,-,Shareholder Returns,Available
+COALINDIA,2024,18103.0,-4486.0,-13899.0,37369.0,0.48443897348069254,Accrual Risk,+,-,-,Reinvestor,Available
+DABUR,2013,870.0,-622.0,-234.0,766.0,1.1357702349869452,High Quality,+,-,-,Shareholder Returns,Available
+DABUR,2014,1098.0,-104.0,-804.0,916.0,1.1986899563318778,High Quality,+,-,-,Shareholder Returns,Available
+DABUR,2015,1047.0,-876.0,-417.0,1068.0,0.9803370786516854,Moderate,+,-,-,Reinvestor,Available
+DABUR,2016,1187.0,-730.0,-374.0,1254.0,0.9465709728867624,Moderate,+,-,-,Reinvestor,Available
+DABUR,2017,1227.0,-807.0,-339.0,1280.0,0.95859375,Moderate,+,-,-,Reinvestor,Available
+DABUR,2018,1092.0,-541.0,-577.0,1358.0,0.8041237113402062,Moderate,+,-,-,Reinvestor,Available
+DABUR,2019,1499.0,338.0,-1888.0,1446.0,1.0366528354080222,High Quality,+,+,-,Liquidating Assets,Available
+DABUR,2020,1614.0,-517.0,-1043.0,1448.0,1.1146408839779005,High Quality,+,-,-,Shareholder Returns,Available
+DABUR,2021,2115.0,-1404.0,-613.0,1695.0,1.247787610619469,High Quality,+,-,-,Shareholder Returns,Available
+DABUR,2022,1802.0,-1273.0,-490.0,1742.0,1.034443168771527,High Quality,+,-,-,Shareholder Returns,Available
+DABUR,2023,1488.0,-583.0,-1035.0,1701.0,0.8747795414462081,Moderate,+,-,-,Reinvestor,Available
+DABUR,2024,2013.0,-971.0,-1161.0,1811.0,1.1115405853119824,High Quality,+,-,-,Shareholder Returns,Available
+DIVISLAB,2013,480.0,-255.0,-231.0,602.0,0.7973421926910299,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2014,557.0,-305.0,-248.0,773.0,0.720569210866753,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2015,826.0,-521.0,-303.0,852.0,0.9694835680751174,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2016,1038.0,-406.0,-631.0,1126.0,0.9218472468916519,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2017,1150.0,-1140.0,2.0,1060.0,1.0849056603773586,High Quality,+,-,+,Mixed,Available
+DIVISLAB,2018,776.0,-478.0,-314.0,877.0,0.8848346636259977,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2019,954.0,-685.0,-246.0,1353.0,0.70509977827051,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2020,1216.0,-83.0,-1091.0,1377.0,0.8830791575889615,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2021,1947.0,75.0,-35.0,1984.0,0.9813508064516129,Moderate,+,+,-,Liquidating Assets,Available
+DIVISLAB,2022,1912.0,-2195.0,-532.0,2960.0,0.6459459459459459,Moderate,+,-,-,Reinvestor,Available
+DIVISLAB,2023,2459.0,-2707.0,-797.0,1824.0,1.3481359649122806,High Quality,+,-,-,Shareholder Returns,Available
+DIVISLAB,2024,1261.0,-269.0,-799.0,1600.0,0.788125,Moderate,+,-,-,Reinvestor,Available
+DLF,2013,2009.0,1995.0,-3951.0,667.0,3.0119940029985006,High Quality,+,+,-,Liquidating Assets,Available
+DLF,2014,1468.0,3924.0,-4532.0,590.0,2.488135593220339,High Quality,+,+,-,Liquidating Assets,Available
+DLF,2015,2037.0,98.0,-1547.0,507.0,4.017751479289941,High Quality,+,+,-,Liquidating Assets,Available
+DLF,2016,2957.0,-818.0,-1929.0,305.0,9.695081967213115,High Quality,+,-,-,Shareholder Returns,Available
+DLF,2017,-898.0,872.0,787.0,708.0,-1.268361581920904,Accrual Risk,-,+,+,Distress Signal,Available
+DLF,2018,270.0,-2102.0,-232.0,4477.0,0.060308242126423946,Accrual Risk,+,-,-,Reinvestor,Available
+DLF,2019,2043.0,3.0,875.0,1314.0,1.5547945205479452,High Quality,+,+,+,Cash Accumulator,Available
+DLF,2020,356.0,6508.0,-9522.0,-590.0,-0.6033898305084746,Accrual Risk,+,+,-,Liquidating Assets,Available
+DLF,2021,1460.0,150.0,-2184.0,1083.0,1.348107109879963,High Quality,+,+,-,Liquidating Assets,Available
+DLF,2022,2832.0,267.0,-3828.0,1500.0,1.888,High Quality,+,+,-,Liquidating Assets,Available
+DLF,2023,2375.0,-461.0,-2013.0,2034.0,1.1676499508357916,High Quality,+,-,-,Shareholder Returns,Available
+DLF,2024,2539.0,-1529.0,177.0,2724.0,0.9320851688693098,Moderate,+,-,+,Mixed,Available
+DMART,2013,127.0,-231.0,118.0,94.0,1.351063829787234,High Quality,+,-,+,Mixed,Available
+DMART,2014,198.0,-270.0,65.0,161.0,1.2298136645962734,High Quality,+,-,+,Mixed,Available
+DMART,2015,222.0,-474.0,234.0,212.0,1.0471698113207548,High Quality,+,-,+,Mixed,Available
+DMART,2016,433.0,-633.0,196.0,320.0,1.353125,High Quality,+,-,+,Mixed,Available
+DMART,2017,455.0,-2482.0,2025.0,479.0,0.9498956158663883,Moderate,+,-,+,Mixed,Available
+DMART,2018,730.0,464.0,-1159.0,806.0,0.9057071960297767,Moderate,+,+,-,Liquidating Assets,Available
+DMART,2019,807.0,-958.0,209.0,902.0,0.8946784922394678,Moderate,+,-,+,Mixed,Available
+DMART,2020,1280.0,-4657.0,3357.0,1301.0,0.9838585703305149,Moderate,+,-,+,Mixed,Available
+DMART,2021,1375.0,-1110.0,-180.0,1099.0,1.2511373976342128,High Quality,+,-,-,Shareholder Returns,Available
+DMART,2022,1372.0,-1289.0,-179.0,1492.0,0.9195710455764075,Moderate,+,-,-,Reinvestor,Available
+DMART,2023,2630.0,-2313.0,-205.0,2378.0,1.1059714045416316,High Quality,+,-,-,Shareholder Returns,Available
+DMART,2024,2746.0,-2468.0,-148.0,2536.0,1.082807570977918,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2013,1378.0,-1437.0,-157.0,1527.0,0.9024230517354289,Moderate,+,-,-,Reinvestor,Available
+DRREDDY,2014,1970.0,-1604.0,-24.0,1963.0,1.0035659704533877,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2015,2524.0,-2370.0,-433.0,2336.0,1.0804794520547945,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2016,3263.0,-1610.0,-1700.0,2131.0,1.5312060065696855,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2017,2144.0,-1890.0,-369.0,1292.0,1.6594427244582044,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2018,1803.0,-1483.0,-444.0,947.0,1.903907074973601,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2019,2870.0,-769.0,-2133.0,1950.0,1.471794871794872,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2020,2984.0,-495.0,-2516.0,2026.0,1.472852912142152,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2021,3570.0,-2255.0,-30.0,1952.0,1.8288934426229508,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2022,2811.0,-2565.0,-242.0,2182.0,1.2882676443629697,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2023,5888.0,-4109.0,-2686.0,4507.0,1.3064122476148214,High Quality,+,-,-,Shareholder Returns,Available
+DRREDDY,2024,4543.0,-4034.0,-376.0,5578.0,0.8144496235209753,Moderate,+,-,-,Reinvestor,Available
+EICHERMOT,2012,496.0,-773.0,-111.0,475.0,1.0442105263157895,High Quality,+,-,-,Shareholder Returns,Available
+EICHERMOT,2013,716.0,-790.0,-47.0,525.0,1.3638095238095238,High Quality,+,-,-,Shareholder Returns,Available
+EICHERMOT,2014,1047.0,-1214.0,-162.0,702.0,1.4914529914529915,High Quality,+,-,-,Shareholder Returns,Available
+EICHERMOT,2016,1463.0,-1001.0,-466.0,1338.0,1.093423019431988,High Quality,+,-,-,Shareholder Returns,Available
+EICHERMOT,2017,1708.0,-1744.0,25.0,1667.0,1.0245950809838031,High Quality,+,-,+,Mixed,Available
+EICHERMOT,2018,2482.0,-2145.0,-262.0,1960.0,1.2663265306122449,High Quality,+,-,-,Shareholder Returns,Available
+EICHERMOT,2019,1575.0,-660.0,-292.0,2203.0,0.7149341806627326,Moderate,+,-,-,Reinvestor,Available
+EICHERMOT,2020,1694.0,-1508.0,-858.0,1827.0,0.9272030651340997,Moderate,+,-,-,Reinvestor,Available
+EICHERMOT,2021,1691.0,-1625.0,-15.0,1347.0,1.2553823311061618,High Quality,+,-,-,Shareholder Returns,Available
+EICHERMOT,2022,1527.0,-983.0,-593.0,1677.0,0.9105545617173524,Moderate,+,-,-,Reinvestor,Available
+EICHERMOT,2023,2823.0,-2397.0,-417.0,2914.0,0.9687714481811942,Moderate,+,-,-,Reinvestor,Available
+EICHERMOT,2024,3724.0,-2834.0,-844.0,4001.0,0.9307673081729567,Moderate,+,-,-,Reinvestor,Available
+GAIL,2013,6603.0,-8626.0,3642.0,4367.0,1.5120219830547286,High Quality,+,-,+,Mixed,Available
+GAIL,2014,4615.0,-4466.0,-3.0,4786.0,0.9642707898035938,Moderate,+,-,-,Reinvestor,Available
+GAIL,2015,4214.0,-2809.0,-3058.0,3160.0,1.3335443037974684,High Quality,+,-,-,Shareholder Returns,Available
+GAIL,2016,3960.0,-904.0,-3028.0,1874.0,2.113127001067236,High Quality,+,-,-,Shareholder Returns,Available
+GAIL,2017,6024.0,-334.0,-5275.0,3374.0,1.7854179016004743,High Quality,+,-,-,Shareholder Returns,Available
+GAIL,2018,8769.0,-2660.0,-5252.0,4805.0,1.8249739854318419,High Quality,+,-,-,Shareholder Returns,Available
+GAIL,2019,7984.0,-5701.0,-3364.0,6553.0,1.2183732641538227,High Quality,+,-,-,Shareholder Returns,Available
+GAIL,2020,8345.0,-8299.0,281.0,9515.0,0.8770362585391487,Moderate,+,-,+,Mixed,Available
+GAIL,2021,8993.0,-4640.0,-3471.0,6143.0,1.463942699007,High Quality,+,-,-,Shareholder Returns,Available
+GAIL,2022,9420.0,-5490.0,-3917.0,12304.0,0.7656046814044213,Moderate,+,-,-,Reinvestor,Available
+GAIL,2023,3205.0,-7453.0,2972.0,5596.0,0.5727305218012866,Moderate,+,-,+,Mixed,Available
+GAIL,2024,12586.0,-8226.0,-3457.0,9903.0,1.270928001615672,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2013,820.0,-865.0,282.0,845.0,0.9704142011834319,Moderate,+,-,+,Mixed,Available
+GODREJCP,2014,1116.0,-494.0,-620.0,819.0,1.3626373626373627,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2015,1027.0,-1236.0,-12.0,976.0,1.0522540983606556,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2016,847.0,-622.0,-202.0,831.0,1.0192539109506618,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2017,1860.0,-2243.0,665.0,1308.0,1.4220183486238531,High Quality,+,-,+,Mixed,Available
+GODREJCP,2018,1723.0,-336.0,-1384.0,1634.0,1.0544675642594858,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2019,1729.0,274.0,-2039.0,2342.0,0.7382578992314262,Moderate,+,+,-,Liquidating Assets,Available
+GODREJCP,2020,1588.0,-552.0,-1295.0,1497.0,1.0607882431529727,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2021,2030.0,-292.0,-1816.0,1721.0,1.179546775130738,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2022,1451.0,-844.0,-380.0,1783.0,0.8137969713965227,Moderate,+,-,-,Reinvestor,Available
+GODREJCP,2023,2151.0,-1754.0,-794.0,1702.0,1.263807285546416,High Quality,+,-,-,Shareholder Returns,Available
+GODREJCP,2024,2070.0,-3435.0,1406.0,-561.0,-3.6898395721925135,Accrual Risk,+,-,+,Mixed,Available
+GRASIM,2013,4242.0,-5687.0,1348.0,3778.0,1.1228163049232398,High Quality,+,-,+,Mixed,Available
+GRASIM,2014,3549.0,-2336.0,-1046.0,2954.0,1.2014218009478672,High Quality,+,-,-,Shareholder Returns,Available
+GRASIM,2015,4594.0,-2359.0,-2278.0,2582.0,1.7792408985282726,High Quality,+,-,-,Shareholder Returns,Available
+GRASIM,2016,5868.0,-4515.0,-1365.0,3455.0,1.6984081041968162,High Quality,+,-,-,Shareholder Returns,Available
+GRASIM,2017,7288.0,-3509.0,-3799.0,4246.0,1.7164390014130946,High Quality,+,-,-,Shareholder Returns,Available
+GRASIM,2018,-4140.0,1546.0,3449.0,3688.0,-1.1225596529284165,Accrual Risk,-,+,+,Distress Signal,Available
+GRASIM,2019,-1659.0,-2212.0,4158.0,2745.0,-0.6043715846994535,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+GRASIM,2020,16620.0,-11364.0,-3418.0,6639.0,2.5033890646181653,High Quality,+,-,-,Shareholder Returns,Available
+GRASIM,2021,15075.0,-7146.0,-8003.0,6987.0,2.157578359811078,High Quality,+,-,-,Shareholder Returns,Available
+GRASIM,2022,7038.0,-1053.0,-6733.0,11206.0,0.6280563983580225,Moderate,+,-,-,Reinvestor,Available
+GRASIM,2023,-12685.0,-13712.0,26469.0,11078.0,-1.1450622856111212,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+GRASIM,2024,-10719.0,-23114.0,33908.0,9926.0,-1.0798911948418295,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HAL,2017,-423.0,3021.0,-164.0,2616.0,-0.16169724770642202,Accrual Risk,-,+,-,Other,Available
+HAL,2018,-734.0,594.0,-2540.0,1987.0,-0.36940110719677904,Accrual Risk,-,+,-,Other,Available
+HAL,2019,-7694.0,5292.0,2321.0,2346.0,-3.279624893435635,Accrual Risk,-,+,+,Distress Signal,Available
+HAL,2020,1537.0,-1334.0,64.0,2842.0,0.5408163265306123,Moderate,+,-,+,Mixed,Available
+HAL,2021,15124.0,-1190.0,-7070.0,3239.0,4.669342389626428,High Quality,+,-,-,Shareholder Returns,Available
+HAL,2022,10180.0,-12789.0,-1464.0,5086.0,2.0015729453401496,High Quality,+,-,-,Shareholder Returns,Available
+HAL,2023,8836.0,-5734.0,-1731.0,5811.0,1.5205644467389434,High Quality,+,-,-,Shareholder Returns,Available
+HAL,2024,8226.0,-6412.0,-1999.0,7595.0,1.0830809743252139,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2013,638.0,-144.0,-252.0,581.0,1.0981067125645438,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2014,868.0,-376.0,-310.0,446.0,1.946188340807175,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2015,963.0,-485.0,-754.0,385.0,2.501298701298701,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2016,513.0,-121.0,-621.0,1300.0,0.3946153846153846,Accrual Risk,+,-,-,Reinvestor,Available
+HAVELLS,2017,767.0,-220.0,-98.0,494.0,1.5526315789473684,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2018,1100.0,-946.0,-409.0,661.0,1.6641452344931922,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2019,501.0,185.0,-318.0,788.0,0.6357868020304569,Moderate,+,+,-,Liquidating Assets,Available
+HAVELLS,2020,827.0,-548.0,-716.0,735.0,1.125170068027211,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2021,660.0,-763.0,190.0,1044.0,0.632183908045977,Moderate,+,-,+,Mixed,Available
+HAVELLS,2022,1728.0,-759.0,-547.0,1196.0,1.4448160535117056,High Quality,+,-,-,Shareholder Returns,Available
+HAVELLS,2023,565.0,31.0,-907.0,1072.0,0.5270522388059702,Moderate,+,+,-,Liquidating Assets,Available
+HAVELLS,2024,1953.0,-1618.0,-534.0,1271.0,1.5365853658536586,High Quality,+,-,-,Shareholder Returns,Available
+HCLTECH,2013,4492.0,-2361.0,-2086.0,4040.0,1.111881188118812,High Quality,+,-,-,Shareholder Returns,Available
+HCLTECH,2014,6457.0,-4842.0,-1308.0,6528.0,0.9891237745098039,Moderate,+,-,-,Reinvestor,Available
+HCLTECH,2015,5539.0,-2088.0,-3140.0,7342.0,0.7544265867611005,Moderate,+,-,-,Reinvestor,Available
+HCLTECH,2016,3823.0,-2208.0,-2237.0,5602.0,0.682434844698322,Moderate,+,-,-,Reinvestor,Available
+HCLTECH,2017,8995.0,-3890.0,-4517.0,8606.0,1.0452010225424122,High Quality,+,-,-,Shareholder Returns,Available
+HCLTECH,2018,8328.0,-2236.0,-5714.0,8722.0,0.9548268745700528,Moderate,+,-,-,Reinvestor,Available
+HCLTECH,2019,8971.0,-3256.0,-1471.0,10120.0,0.8864624505928854,Moderate,+,-,-,Reinvestor,Available
+HCLTECH,2020,13359.0,-12332.0,-3168.0,11057.0,1.2081939043140093,High Quality,+,-,-,Shareholder Returns,Available
+HCLTECH,2021,19618.0,-5665.0,-11192.0,11169.0,1.756468797564688,High Quality,+,-,-,Shareholder Returns,Available
+HCLTECH,2022,16900.0,1597.0,-14508.0,13523.0,1.2497226946683428,High Quality,+,+,-,Liquidating Assets,Available
+HCLTECH,2023,18009.0,-3573.0,-15881.0,14845.0,1.2131357359380264,High Quality,+,-,-,Shareholder Returns,Available
+HCLTECH,2024,22448.0,-6608.0,-15464.0,15710.0,1.428898790579249,High Quality,+,-,-,Shareholder Returns,Available
+HDFCBANK,2013,-5847.0,-902.0,13105.0,6903.0,-0.8470230334637114,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HDFCBANK,2014,4211.0,-1099.0,9270.0,8768.0,0.4802691605839416,Accrual Risk,+,-,+,Mixed,Available
+HDFCBANK,2015,-21281.0,-800.0,18694.0,10703.0,-1.9883210314864992,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HDFCBANK,2016,-34435.0,-837.0,37815.0,12821.0,-2.6858279385383357,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HDFCBANK,2017,17282.0,-1146.0,-5893.0,15317.0,1.128288829405236,High Quality,+,-,-,Shareholder Returns,Available
+HDFCBANK,2018,17214.0,-842.0,57378.0,18561.0,0.9274284790690157,Moderate,+,-,+,Mixed,Available
+HDFCBANK,2019,-62872.0,-1503.0,23131.0,22446.0,-2.801033591731266,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HDFCBANK,2020,-16869.0,-1403.0,24394.0,27296.0,-0.6180026377491208,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HDFCBANK,2021,42476.0,-1823.0,-7321.0,31857.0,1.3333333333333333,High Quality,+,-,-,Shareholder Returns,Available
+HDFCBANK,2022,-11960.0,-2051.0,48124.0,38151.0,-0.3134911273623234,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+HDFCBANK,2023,20814.0,-2992.0,23941.0,46149.0,0.45101735682246635,Accrual Risk,+,-,+,Mixed,Available
+HDFCBANK,2024,19069.0,16600.0,-3983.0,65446.0,0.2913699844146319,Accrual Risk,+,+,-,Liquidating Assets,Available
+HDFCLIFE,2015,4459.0,-3514.0,-168.0,786.0,5.673027989821883,High Quality,+,-,-,Shareholder Returns,Available
+HDFCLIFE,2016,5687.0,-3962.0,-212.0,817.0,6.960832313341493,High Quality,+,-,-,Shareholder Returns,Available
+HDFCLIFE,2017,6230.0,-5177.0,-236.0,887.0,7.023675310033822,High Quality,+,-,-,Shareholder Returns,Available
+HDFCLIFE,2018,6739.0,-4421.0,-196.0,1107.0,6.087624209575429,High Quality,+,-,-,Shareholder Returns,Available
+HDFCLIFE,2019,9868.0,-10182.0,-337.0,1278.0,7.721439749608764,High Quality,+,-,-,Shareholder Returns,Available
+HDFCLIFE,2020,7388.0,-7789.0,38.0,1297.0,5.696222050886662,High Quality,+,-,+,Mixed,Available
+HDFCLIFE,2021,9703.0,-8952.0,678.0,1361.0,7.129316678912565,High Quality,+,-,+,Mixed,Available
+HDFCLIFE,2022,5943.0,-801.0,-238.0,1327.0,4.47852298417483,High Quality,+,-,-,Shareholder Returns,Available
+HDFCLIFE,2023,6883.0,-10071.0,1985.0,1368.0,5.031432748538012,High Quality,+,-,+,Mixed,Available
+HDFCLIFE,2024,10721.0,-13614.0,-403.0,1574.0,6.81130876747141,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2014,2963.0,-1616.0,-1414.0,2102.0,1.4096098953377736,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2015,2186.0,31.0,-2131.0,2364.0,0.9247038917089678,Moderate,+,+,-,Liquidating Assets,Available
+HEROMOTOCO,2016,3722.0,-2300.0,-1475.0,3112.0,1.1960154241645244,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2017,4007.0,-1972.0,-2036.0,3546.0,1.1300056401579244,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2018,4017.0,-1858.0,-2102.0,3722.0,1.0792584631918323,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2019,1032.0,1298.0,-2252.0,3466.0,0.2977495672244662,Accrual Risk,+,+,-,Liquidating Assets,Available
+HEROMOTOCO,2020,5518.0,-2819.0,-2602.0,3659.0,1.508062312107133,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2021,4110.0,-2289.0,-1852.0,2936.0,1.3998637602179838,High Quality,+,-,-,Shareholder Returns,Available
+HEROMOTOCO,2022,2104.0,-222.0,-1975.0,2329.0,0.9033920137398025,Moderate,+,-,-,Reinvestor,Available
+HEROMOTOCO,2023,2614.0,-421.0,-2147.0,2800.0,0.9335714285714286,Moderate,+,-,-,Reinvestor,Available
+HEROMOTOCO,2024,4923.0,-1828.0,-2717.0,3742.0,1.3156066274719402,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2013,2977.0,-13801.0,10278.0,3007.0,0.9900232790156301,Moderate,+,-,+,Mixed,Available
+HINDALCO,2014,7956.0,-8095.0,1493.0,2195.0,3.624601366742597,High Quality,+,-,+,Mixed,Available
+HINDALCO,2015,7143.0,-3873.0,-2437.0,259.0,27.57915057915058,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2016,11688.0,-3220.0,-8862.0,-702.0,-16.64957264957265,Accrual Risk,+,-,-,Reinvestor,Available
+HINDALCO,2017,12687.0,-2876.0,-5552.0,1882.0,6.741232731137088,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2018,10898.0,5333.0,-16412.0,6083.0,1.7915502219299688,High Quality,+,+,-,Liquidating Assets,Available
+HINDALCO,2019,11977.0,-5456.0,-5466.0,5495.0,2.1796178343949046,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2020,12745.0,-7227.0,6656.0,3767.0,3.383328908946111,High Quality,+,-,+,Mixed,Available
+HINDALCO,2021,17232.0,-25280.0,-4882.0,3483.0,4.9474590869939705,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2022,16838.0,-6773.0,-6765.0,13730.0,1.226365622723962,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2023,19208.0,-7559.0,-10450.0,10097.0,1.9023472318510448,High Quality,+,-,-,Shareholder Returns,Available
+HINDALCO,2024,24056.0,-14267.0,-10817.0,10155.0,2.368882323978336,High Quality,+,-,-,Shareholder Returns,Available
+HINDUNILVR,2013,3605.0,63.0,-4147.0,3839.0,0.9390466267257098,Moderate,+,+,-,Liquidating Assets,Available
+HINDUNILVR,2014,3818.0,-475.0,-2960.0,3956.0,0.9651162790697675,Moderate,+,-,-,Reinvestor,Available
+HINDUNILVR,2015,3292.0,138.0,-3462.0,4376.0,0.7522851919561243,Moderate,+,+,-,Liquidating Assets,Available
+HINDUNILVR,2016,4171.0,-282.0,-3864.0,4151.0,1.0048181161165983,High Quality,+,-,-,Shareholder Returns,Available
+HINDUNILVR,2017,5185.0,-1173.0,-4214.0,4490.0,1.1547884187082404,High Quality,+,-,-,Shareholder Returns,Available
+HINDUNILVR,2018,6059.0,-1063.0,-4975.0,5227.0,1.1591735220968051,High Quality,+,-,-,Shareholder Returns,Available
+HINDUNILVR,2019,5800.0,-438.0,-5390.0,6060.0,0.9570957095709571,Moderate,+,-,-,Reinvestor,Available
+HINDUNILVR,2020,7623.0,1791.0,-6819.0,6756.0,1.1283303730017762,High Quality,+,+,-,Liquidating Assets,Available
+HINDUNILVR,2021,9163.0,-1228.0,-9309.0,7999.0,1.1455181897737217,High Quality,+,-,-,Shareholder Returns,Available
+HINDUNILVR,2022,9048.0,-1728.0,-8015.0,8892.0,1.0175438596491229,High Quality,+,-,-,Shareholder Returns,Available
+HINDUNILVR,2023,9991.0,-1484.0,-8953.0,10143.0,0.9850142955733018,Moderate,+,-,-,Reinvestor,Available
+HINDUNILVR,2024,15469.0,-5324.0,-10034.0,10282.0,1.504473837774752,High Quality,+,-,-,Shareholder Returns,Available
+ICICIBANK,2013,17494.0,-18563.0,9283.0,10130.0,1.726949654491609,High Quality,+,-,+,Mixed,Available
+ICICIBANK,2014,6765.0,-15750.0,7872.0,11677.0,0.5793440095915047,Moderate,+,-,+,Mixed,Available
+ICICIBANK,2015,-12273.0,-13175.0,24827.0,12942.0,-0.9483078349559574,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+ICICIBANK,2016,23645.0,-12060.0,5814.0,10927.0,2.16390592111284,High Quality,+,-,+,Mixed,Available
+ICICIBANK,2017,52636.0,-1711.0,-35470.0,11340.0,4.641622574955909,High Quality,+,-,-,Shareholder Returns,Available
+ICICIBANK,2018,19383.0,-50551.0,39676.0,9100.0,2.13,High Quality,+,-,+,Mixed,Available
+ICICIBANK,2019,48671.0,-30282.0,-19997.0,5689.0,8.555282123396028,High Quality,+,-,-,Shareholder Returns,Available
+ICICIBANK,2020,79565.0,-42095.0,2992.0,11225.0,7.088195991091314,High Quality,+,-,+,Mixed,Available
+ICICIBANK,2021,138015.0,-63631.0,-54667.0,20364.0,6.777401296405421,High Quality,+,-,-,Shareholder Returns,Available
+ICICIBANK,2022,58111.0,-39448.0,17451.0,26538.0,2.18972793729746,High Quality,+,-,+,Mixed,Available
+ICICIBANK,2023,-3771.0,-67689.0,24791.0,35461.0,-0.10634217873156425,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+ICICIBANK,2024,157284.0,-144737.0,13765.0,46081.0,3.4132071786636575,High Quality,+,-,+,Mixed,Available
+ICICIGI,2013,984.0,-962.0,102.0,353.0,2.7875354107648724,High Quality,+,-,+,Mixed,Available
+ICICIGI,2014,595.0,-706.0,4.0,520.0,1.1442307692307692,High Quality,+,-,+,Mixed,Available
+ICICIGI,2015,-98.0,171.0,-93.0,585.0,-0.1675213675213675,Accrual Risk,-,+,-,Other,Available
+ICICIGI,2016,511.0,-310.0,-148.0,507.0,1.0078895463510849,High Quality,+,-,-,Shareholder Returns,Available
+ICICIGI,2017,1628.0,-1990.0,361.0,702.0,2.319088319088319,High Quality,+,-,+,Mixed,Available
+ICICIGI,2018,2390.0,-1896.0,-96.0,862.0,2.7726218097447797,High Quality,+,-,-,Shareholder Returns,Available
+ICICIGI,2019,2976.0,-2856.0,-310.0,1049.0,2.8369876072449953,High Quality,+,-,-,Shareholder Returns,Available
+ICICIGI,2020,3433.0,-3382.0,-420.0,1194.0,2.875209380234506,High Quality,+,-,-,Shareholder Returns,Available
+ICICIGI,2021,1774.0,-1367.0,-212.0,1473.0,1.2043448744059742,High Quality,+,-,-,Shareholder Returns,Available
+ICICIGI,2022,809.0,135.0,-879.0,1271.0,0.6365066876475216,Moderate,+,+,-,Liquidating Assets,Available
+ICICIGI,2023,2290.0,-1685.0,-695.0,1729.0,1.324465008675535,High Quality,+,-,-,Shareholder Returns,Available
+ICICIGI,2024,2407.0,-1921.0,-355.0,1919.0,1.2542991141219386,High Quality,+,-,-,Shareholder Returns,Available
+ICICIPRULI,2013,-2641.0,1564.0,-514.0,1515.0,-1.7432343234323433,Accrual Risk,-,+,-,Other,Available
+ICICIPRULI,2014,-2382.0,6012.0,-1091.0,1561.0,-1.5259449071108264,Accrual Risk,-,+,-,Other,Available
+ICICIPRULI,2015,523.0,-1822.0,-966.0,1640.0,0.31890243902439025,Accrual Risk,+,-,-,Reinvestor,Available
+ICICIPRULI,2016,3634.0,27.0,-1442.0,1650.0,2.2024242424242426,High Quality,+,+,-,Liquidating Assets,Available
+ICICIPRULI,2017,4130.0,-696.0,-994.0,1682.0,2.455410225921522,High Quality,+,-,-,Shareholder Returns,Available
+ICICIPRULI,2018,5690.0,-5389.0,-1188.0,1619.0,3.5145151327980235,High Quality,+,-,-,Shareholder Returns,Available
+ICICIPRULI,2019,11377.0,-7559.0,-843.0,1139.0,9.988586479367866,High Quality,+,-,-,Shareholder Returns,Available
+ICICIPRULI,2020,8596.0,-10797.0,-405.0,1067.0,8.056232427366448,High Quality,+,-,-,Shareholder Returns,Available
+ICICIPRULI,2021,7314.0,-5084.0,1205.0,956.0,7.650627615062762,High Quality,+,-,+,Mixed,Available
+ICICIPRULI,2022,1831.0,-816.0,-319.0,759.0,2.412384716732543,High Quality,+,-,-,Shareholder Returns,Available
+ICICIPRULI,2023,89.0,-1145.0,-112.0,813.0,0.10947109471094711,Accrual Risk,+,-,-,Reinvestor,Available
+ICICIPRULI,2024,-7315.0,7420.0,-88.0,851.0,-8.595769682726205,Accrual Risk,-,+,-,Other,Available
+INDIGO,2013,1741.0,-1890.0,36.0,787.0,2.2121982210927573,High Quality,+,-,+,Mixed,Available
+INDIGO,2014,1595.0,-2914.0,1285.0,474.0,3.3649789029535864,High Quality,+,-,+,Mixed,Available
+INDIGO,2015,2384.0,-940.0,-1308.0,1304.0,1.8282208588957056,High Quality,+,-,-,Shareholder Returns,Available
+INDIGO,2016,3116.0,-1337.0,-1220.0,1986.0,1.5689828801611279,High Quality,+,-,-,Shareholder Returns,Available
+INDIGO,2017,3782.0,-3033.0,-1401.0,1659.0,2.2796865581675707,High Quality,+,-,-,Shareholder Returns,Available
+INDIGO,2018,3903.0,-4152.0,766.0,2242.0,1.7408563782337199,High Quality,+,-,+,Mixed,Available
+INDIGO,2019,3160.0,-2526.0,-592.0,156.0,20.256410256410255,High Quality,+,-,-,Shareholder Returns,Available
+INDIGO,2020,6943.0,-4573.0,-2407.0,-248.0,-27.995967741935484,Accrual Risk,+,-,-,Reinvestor,Available
+INDIGO,2021,-1620.0,3228.0,-1775.0,-6171.0,0.2625182304326689,Accrual Risk,-,+,-,Other,Available
+INDIGO,2022,2064.0,1527.0,-3088.0,-317.0,-6.511041009463723,Accrual Risk,+,+,-,Liquidating Assets,Available
+INDIGO,2023,12703.0,-4039.0,-8432.0,-317.0,-40.072555205047315,Accrual Risk,+,-,-,Reinvestor,Available
+INDIGO,2024,21183.0,-11759.0,-9979.0,8167.0,2.5937308681278317,High Quality,+,-,-,Shareholder Returns,Available
+INDUSINDBK,2013,-486.0,-174.0,1969.0,1061.0,-0.4580584354382658,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2014,-4106.0,-174.0,4200.0,1408.0,-2.9161931818181817,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2015,-1421.0,-276.0,5707.0,1794.0,-0.7920847268673356,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2016,-2927.0,-258.0,2517.0,2286.0,-1.2804024496937882,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2017,11569.0,-285.0,-2768.0,2868.0,4.033821478382148,High Quality,+,-,-,Shareholder Returns,Available
+INDUSINDBK,2018,-20700.0,-217.0,15505.0,3606.0,-5.740432612312812,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2019,-6389.0,-633.0,8590.0,3301.0,-1.9354740987579522,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2020,-12039.0,526.0,12733.0,4418.0,-2.724988682661838,Accrual Risk,-,+,+,Distress Signal,Available
+INDUSINDBK,2021,44646.0,-226.0,-4096.0,2836.0,15.7425952045134,High Quality,+,-,-,Shareholder Returns,Available
+INDUSINDBK,2022,16600.0,-351.0,-4302.0,4611.0,3.600086749078291,High Quality,+,-,-,Shareholder Returns,Available
+INDUSINDBK,2023,-12438.0,-441.0,1115.0,7390.0,-1.683085250338295,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+INDUSINDBK,2024,-16843.0,-625.0,-2242.0,8950.0,-1.8818994413407821,Accrual Risk,-,-,-,Pre-Revenue,Available
+INFY,2013,7373.0,-2922.0,-3210.0,9429.0,0.781949305334606,Moderate,+,-,-,Reinvestor,Available
+INFY,2014,9825.0,-2563.0,-3144.0,10656.0,0.9220157657657657,Moderate,+,-,-,Reinvestor,Available
+INFY,2015,8353.0,999.0,-4935.0,12372.0,0.6751535725832525,Moderate,+,+,-,Liquidating Assets,Available
+INFY,2016,10028.0,-885.0,-6813.0,13489.0,0.7434205649047372,Moderate,+,-,-,Reinvestor,Available
+INFY,2017,11531.0,-14664.0,-6939.0,14353.0,0.8033860516965095,Moderate,+,-,-,Reinvestor,Available
+INFY,2018,13218.0,4533.0,-20505.0,16029.0,0.8246303574770728,Moderate,+,+,-,Liquidating Assets,Available
+INFY,2019,14841.0,-632.0,-14512.0,15410.0,0.9630759247242051,Moderate,+,-,-,Reinvestor,Available
+INFY,2020,17003.0,-331.0,-17591.0,16639.0,1.0218763146823728,High Quality,+,-,-,Shareholder Returns,Available
+INFY,2021,23224.0,-7373.0,-9786.0,19423.0,1.195695824537919,High Quality,+,-,-,Shareholder Returns,Available
+INFY,2022,23885.0,-6485.0,-24642.0,22146.0,1.0785243384809897,High Quality,+,-,-,Shareholder Returns,Available
+INFY,2023,22467.0,-1071.0,-26695.0,24108.0,0.9319313091090095,Moderate,+,-,-,Reinvestor,Available
+INFY,2024,25210.0,-5093.0,-17504.0,26248.0,0.9604541298384639,Moderate,+,-,-,Reinvestor,Available
+IOC,2013,9340.0,-9294.0,352.0,3627.0,2.5751309622277363,High Quality,+,-,+,Mixed,Available
+IOC,2014,24195.0,-18594.0,-3116.0,6967.0,3.4728003444811253,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2015,46092.0,-10215.0,-38283.0,4872.0,9.460591133004925,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2016,25624.0,-13610.0,-11890.0,12413.0,2.0642874405864817,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2017,28216.0,-17684.0,-10937.0,20385.0,1.3841550159430953,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2018,29115.0,-17119.0,-12007.0,22626.0,1.286793953858393,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2019,12747.0,-22569.0,10436.0,17274.0,0.7379298367488711,Moderate,+,-,+,Mixed,Available
+IOC,2020,7146.0,-29101.0,22456.0,-1876.0,-3.8091684434968016,Accrual Risk,+,-,+,Mixed,Available
+IOC,2021,49650.0,-22935.0,-27369.0,21762.0,2.2814998621450235,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2022,25747.0,-21294.0,-4058.0,25727.0,1.00077739339993,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2023,29644.0,-28030.0,-1794.0,11704.0,2.5328092959671906,High Quality,+,-,-,Shareholder Returns,Available
+IOC,2024,71099.0,-31464.0,-39385.0,43161.0,1.6472973286068442,High Quality,+,-,-,Shareholder Returns,Available
+IRCTC,2015,69.0,-46.0,-17.0,131.0,0.5267175572519084,Moderate,+,-,-,Reinvestor,Available
+IRCTC,2016,288.0,7.0,-31.0,189.0,1.5238095238095237,High Quality,+,+,-,Liquidating Assets,Available
+IRCTC,2017,338.0,94.0,-136.0,229.0,1.4759825327510918,High Quality,+,+,-,Liquidating Assets,Available
+IRCTC,2018,24.0,40.0,-57.0,221.0,0.1085972850678733,Accrual Risk,+,+,-,Liquidating Assets,Available
+IRCTC,2019,499.0,-353.0,-179.0,309.0,1.6148867313915858,High Quality,+,-,-,Shareholder Returns,Available
+IRCTC,2020,409.0,8.0,-280.0,513.0,0.797270955165692,Moderate,+,+,-,Liquidating Assets,Available
+IRCTC,2021,248.0,-453.0,-47.0,187.0,1.3262032085561497,High Quality,+,-,-,Shareholder Returns,Available
+IRCTC,2022,524.0,-242.0,-258.0,660.0,0.793939393939394,Moderate,+,-,-,Reinvestor,Available
+IRCTC,2023,812.0,-317.0,-434.0,1006.0,0.8071570576540755,Moderate,+,-,-,Reinvestor,Available
+IRCTC,2024,882.0,-215.0,-404.0,1111.0,0.7938793879387939,Moderate,+,-,-,Reinvestor,Available
+IRFC,2016,-16378.0,2.0,17582.0,849.0,-19.290930506478208,Accrual Risk,-,+,+,Distress Signal,Available
+IRFC,2017,-19455.0,2.0,18250.0,934.0,-20.829764453961456,Accrual Risk,-,+,+,Distress Signal,Available
+IRFC,2018,-28076.0,2.0,28075.0,2055.0,-13.662287104622871,Accrual Risk,-,+,+,Distress Signal,Available
+IRFC,2019,-41748.0,1.0,41749.0,2255.0,-18.51352549889135,Accrual Risk,-,+,+,Distress Signal,Available
+IRFC,2020,-62701.0,1.0,62697.0,3192.0,-19.64317042606516,Accrual Risk,-,+,+,Distress Signal,Available
+IRFC,2021,-89907.0,0.0,90202.0,4416.0,-20.359375,Accrual Risk,-,0,+,Other,Available
+IRFC,2022,-64412.0,-5.0,64266.0,6090.0,-10.576683087027915,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+IRFC,2023,-28588.0,0.0,28644.0,6167.0,-4.635641316685585,Accrual Risk,-,0,+,Other,Available
+IRFC,2024,7914.0,-8.0,-8046.0,6412.0,1.2342482844666252,High Quality,+,-,-,Shareholder Returns,Available
+ITC,2013,7102.0,-3881.0,-3310.0,7704.0,0.921858774662513,Moderate,+,-,-,Reinvestor,Available
+ITC,2014,7344.0,-3254.0,-4122.0,9001.0,0.8159093434062882,Moderate,+,-,-,Reinvestor,Available
+ITC,2015,9843.0,-5275.0,-4661.0,9779.0,1.0065446364658963,High Quality,+,-,-,Shareholder Returns,Available
+ITC,2016,9799.0,-3921.0,-5613.0,9501.0,1.0313651194611093,High Quality,+,-,-,Shareholder Returns,Available
+ITC,2017,10627.0,-3251.0,-7301.0,10477.0,1.0143170754987114,High Quality,+,-,-,Shareholder Returns,Available
+ITC,2018,13169.0,-7114.0,-6221.0,11493.0,1.1458278952405812,High Quality,+,-,-,Shareholder Returns,Available
+ITC,2019,12583.0,-5546.0,-6869.0,12836.0,0.9802898099096292,Moderate,+,-,-,Reinvestor,Available
+ITC,2020,14690.0,-6174.0,-8181.0,15593.0,0.942089399089335,Moderate,+,-,-,Reinvestor,Available
+ITC,2021,12527.0,5740.0,-18634.0,13383.0,0.9360382574908466,Moderate,+,+,-,Liquidating Assets,Available
+ITC,2022,15776.0,-2238.0,-13580.0,15503.0,1.017609494936464,High Quality,+,-,-,Shareholder Returns,Available
+ITC,2023,18878.0,-5732.0,-13006.0,19477.0,0.9692457770703907,Moderate,+,-,-,Reinvestor,Available
+ITC,2024,17179.0,1563.0,-18551.0,20751.0,0.8278637174112091,Moderate,+,+,-,Liquidating Assets,Available
+JINDALSTEL,2013,3522.0,-9591.0,6111.0,2952.0,1.193089430894309,High Quality,+,-,+,Mixed,Available
+JINDALSTEL,2014,4580.0,-12694.0,8879.0,1896.0,2.4156118143459917,High Quality,+,-,+,Mixed,Available
+JINDALSTEL,2015,1182.0,-6717.0,5708.0,-1452.0,-0.8140495867768595,Accrual Risk,+,-,+,Mixed,Available
+JINDALSTEL,2016,4333.0,-2262.0,-2672.0,-3087.0,-1.4036281179138321,Accrual Risk,+,-,-,Reinvestor,Available
+JINDALSTEL,2017,6850.0,-1998.0,-5108.0,-2538.0,-2.6989755713159966,Accrual Risk,+,-,-,Reinvestor,Available
+JINDALSTEL,2018,7724.0,-1431.0,-6276.0,-1616.0,-4.77970297029703,Accrual Risk,+,-,-,Reinvestor,Available
+JINDALSTEL,2019,9027.0,-832.0,-8261.0,-2412.0,-3.7425373134328357,Accrual Risk,+,-,-,Reinvestor,Available
+JINDALSTEL,2020,8814.0,-1476.0,-7016.0,-400.0,-22.035,Accrual Risk,+,-,-,Reinvestor,Available
+JINDALSTEL,2021,11961.0,-1884.0,-4612.0,4267.0,2.8031403796578394,High Quality,+,-,-,Shareholder Returns,Available
+JINDALSTEL,2022,16048.0,-2331.0,-15120.0,6766.0,2.371859296482412,High Quality,+,-,-,Shareholder Returns,Available
+JINDALSTEL,2023,7347.0,-4090.0,-2500.0,3974.0,1.8487669854051334,High Quality,+,-,-,Shareholder Returns,Available
+JINDALSTEL,2024,6008.0,-8344.0,1381.0,5943.0,1.010937237085647,High Quality,+,-,+,Mixed,Available
+JIOFIN,2023,2055.0,-1110.0,-889.0,31.0,66.29032258064517,High Quality,+,-,-,Shareholder Returns,Available
+JIOFIN,2024,-678.0,1441.0,-753.0,1605.0,-0.4224299065420561,Accrual Risk,-,+,-,Other,Available
+JSWENERGY,2013,1725.0,-944.0,-684.0,901.0,1.9145394006659266,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2014,2269.0,-363.0,-1859.0,760.0,2.985526315789474,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2015,3394.0,-422.0,-2327.0,1358.0,2.499263622974963,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2016,3538.0,-3272.0,-1622.0,1460.0,2.4232876712328766,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2017,3853.0,-762.0,-2595.0,623.0,6.184590690208668,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2018,3934.0,-215.0,-3968.0,85.0,46.28235294117647,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2019,2491.0,-55.0,-2523.0,684.0,3.641812865497076,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2020,2082.0,301.0,-1962.0,1081.0,1.9259944495837187,High Quality,+,+,-,Liquidating Assets,Available
+JSWENERGY,2021,3700.0,-1030.0,-2515.0,823.0,4.495747266099635,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2022,2952.0,-1387.0,-781.0,1743.0,1.693631669535284,High Quality,+,-,-,Shareholder Returns,Available
+JSWENERGY,2023,2084.0,-6778.0,7327.0,1480.0,1.4081081081081082,High Quality,+,-,+,Mixed,Available
+JSWENERGY,2024,6234.0,-8197.0,1675.0,1725.0,3.6139130434782607,High Quality,+,-,+,Mixed,Available
+JSWSTEEL,2013,5844.0,-5433.0,-791.0,929.0,6.290635091496233,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2014,2594.0,-5618.0,3300.0,402.0,6.45273631840796,High Quality,+,-,+,Mixed,Available
+JSWSTEEL,2015,7876.0,-7372.0,-169.0,1722.0,4.5737514518002325,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2016,6897.0,-3857.0,-3151.0,-481.0,-14.338877338877339,Accrual Risk,+,-,-,Reinvestor,Available
+JSWSTEEL,2017,7888.0,-5094.0,-2710.0,3467.0,2.275165849437554,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2018,12379.0,-4529.0,-8185.0,6113.0,2.0250286275151317,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2019,14633.0,-11387.0,1753.0,7524.0,1.944843168527379,High Quality,+,-,+,Mixed,Available
+JSWSTEEL,2020,12785.0,-19589.0,5189.0,3919.0,3.262311814238326,High Quality,+,-,+,Mixed,Available
+JSWSTEEL,2021,18789.0,-7702.0,-3110.0,7873.0,2.3865108599009273,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2022,26270.0,-14748.0,-14657.0,20938.0,1.2546566052153978,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2023,23323.0,-10730.0,-5977.0,4139.0,5.634935974873158,High Quality,+,-,-,Shareholder Returns,Available
+JSWSTEEL,2024,12078.0,-14467.0,-5005.0,8973.0,1.3460381143430291,High Quality,+,-,-,Shareholder Returns,Available
+KOTAKBANK,2013,2878.0,-9035.0,7099.0,2238.0,1.285969615728329,High Quality,+,-,+,Mixed,Available
+KOTAKBANK,2014,9068.0,-1130.0,-5814.0,2527.0,3.588444796201029,High Quality,+,-,-,Shareholder Returns,Available
+KOTAKBANK,2015,2302.0,-4467.0,2426.0,3105.0,0.7413848631239935,Moderate,+,-,+,Mixed,Available
+KOTAKBANK,2016,5025.0,-2353.0,2024.0,3524.0,1.4259364358683315,High Quality,+,-,+,Mixed,Available
+KOTAKBANK,2017,13222.0,-5289.0,6055.0,5019.0,2.634389320581789,High Quality,+,-,+,Mixed,Available
+KOTAKBANK,2018,-10392.0,-5475.0,14679.0,6258.0,-1.660594439117929,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+KOTAKBANK,2019,1822.0,-3323.0,8365.0,7204.0,0.2529150471960022,Accrual Risk,+,-,+,Mixed,Available
+KOTAKBANK,2020,46619.0,-13068.0,-735.0,8593.0,5.425229838240428,High Quality,+,-,-,Shareholder Returns,Available
+KOTAKBANK,2021,4881.0,-11172.0,-10072.0,9990.0,0.4885885885885886,Accrual Risk,+,-,-,Reinvestor,Available
+KOTAKBANK,2022,8308.0,-10903.0,7543.0,12089.0,0.6872363305484325,Moderate,+,-,+,Mixed,Available
+KOTAKBANK,2023,-1242.0,-10381.0,1883.0,14925.0,-0.08321608040201005,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+KOTAKBANK,2024,15685.0,-8919.0,15515.0,18213.0,0.8611980453522209,Moderate,+,-,+,Mixed,Available
+LICI,2019,13274.0,9636.0,-13700.0,2627.0,5.052912066996574,High Quality,+,+,-,Liquidating Assets,Available
+LICI,2020,54367.0,-40415.0,-18664.0,2710.0,20.06162361623616,High Quality,+,-,-,Shareholder Returns,Available
+LICI,2021,80602.0,148447.0,-256125.0,2974.0,27.10221923335575,High Quality,+,+,-,Liquidating Assets,Available
+LICI,2022,-3783.0,12531.0,0.0,4125.0,-0.9170909090909091,Accrual Risk,-,+,0,Other,Available
+LICI,2023,54519.0,-52848.0,-949.0,35997.0,1.5145428785732145,High Quality,+,-,-,Shareholder Returns,Available
+LICI,2024,26122.0,-25269.0,-4427.0,40916.0,0.6384299540522045,Moderate,+,-,-,Reinvestor,Available
+LODHA,2016,387.0,-854.0,330.0,703.0,0.55049786628734,Moderate,+,-,+,Mixed,Available
+LODHA,2017,1469.0,-1174.0,-312.0,584.0,2.5154109589041096,High Quality,+,-,-,Shareholder Returns,Available
+LODHA,2018,696.0,-651.0,24.0,794.0,0.8765743073047859,Moderate,+,-,+,Mixed,Available
+LODHA,2019,-463.0,-175.0,736.0,1644.0,-0.2816301703163017,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+LODHA,2020,3772.0,182.0,-4188.0,742.0,5.083557951482479,High Quality,+,+,-,Liquidating Assets,Available
+LODHA,2021,2524.0,420.0,-2835.0,48.0,52.583333333333336,High Quality,+,+,-,Liquidating Assets,Available
+LODHA,2022,1998.0,1139.0,-2888.0,1208.0,1.653973509933775,High Quality,+,+,-,Liquidating Assets,Available
+LODHA,2023,2750.0,1789.0,-3706.0,490.0,5.612244897959184,High Quality,+,+,-,Liquidating Assets,Available
+LODHA,2024,2512.0,-2947.0,951.0,1554.0,1.6164736164736164,High Quality,+,-,+,Mixed,Available
+LT,2013,-4355.0,-6922.0,11429.0,5291.0,-0.8230958230958231,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+LT,2014,-7143.0,-5510.0,13136.0,4885.0,-1.462231320368475,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+LT,2015,-1365.0,-4778.0,7903.0,4966.0,-0.27486910994764396,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+LT,2016,-3240.0,-4627.0,7253.0,4592.0,-0.705574912891986,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+LT,2017,6655.0,-9796.0,2896.0,6486.0,1.0260561208757324,High Quality,+,-,+,Mixed,Available
+LT,2018,-10031.0,3914.0,9370.0,8004.0,-1.253248375812094,Accrual Risk,-,+,+,Distress Signal,Available
+LT,2019,-4756.0,-11023.0,15440.0,10217.0,-0.46549867867280026,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+LT,2020,6694.0,-8408.0,6372.0,10894.0,0.6144666789058197,Moderate,+,-,+,Mixed,Available
+LT,2021,23074.0,-5750.0,-15274.0,12921.0,1.7857750948069036,High Quality,+,-,-,Shareholder Returns,Available
+LT,2022,19164.0,-3585.0,-15181.0,10419.0,1.8393319896343219,High Quality,+,-,-,Shareholder Returns,Available
+LT,2023,22777.0,-8048.0,-11572.0,12531.0,1.8176522224882292,High Quality,+,-,-,Shareholder Returns,Available
+LT,2024,18266.0,2179.0,-25413.0,15547.0,1.1748890461182222,High Quality,+,+,-,Liquidating Assets,Available
+LTIM,2013,608.0,-224.0,-396.0,562.0,1.0818505338078293,High Quality,+,-,-,Shareholder Returns,Available
+LTIM,2014,628.0,180.0,-769.0,996.0,0.6305220883534136,Moderate,+,+,-,Liquidating Assets,Available
+LTIM,2015,642.0,-103.0,-497.0,769.0,0.834850455136541,Moderate,+,-,-,Reinvestor,Available
+LTIM,2016,858.0,-40.0,-817.0,836.0,1.0263157894736843,High Quality,+,-,-,Shareholder Returns,Available
+LTIM,2017,1170.0,-961.0,-33.0,971.0,1.2049433573635426,High Quality,+,-,-,Shareholder Returns,Available
+LTIM,2018,844.0,-452.0,-408.0,1112.0,0.7589928057553957,Moderate,+,-,-,Reinvestor,Available
+LTIM,2019,1395.0,-749.0,-594.0,1516.0,0.9201846965699209,Moderate,+,-,-,Reinvestor,Available
+LTIM,2020,1644.0,-643.0,-890.0,1520.0,1.081578947368421,High Quality,+,-,-,Shareholder Returns,Available
+LTIM,2021,2400.0,-1657.0,-509.0,1938.0,1.238390092879257,High Quality,+,-,-,Shareholder Returns,Available
+LTIM,2022,3251.0,-1643.0,-1680.0,3950.0,0.8230379746835443,Moderate,+,-,-,Reinvestor,Available
+LTIM,2023,3095.0,-271.0,-1932.0,4410.0,0.7018140589569161,Moderate,+,-,-,Reinvestor,Available
+LTIM,2024,5670.0,-3918.0,-2269.0,4585.0,1.2366412213740459,High Quality,+,-,-,Shareholder Returns,Available
+M&M,2013,-922.0,-2903.0,4508.0,4129.0,-0.223298619520465,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+M&M,2014,-244.0,-4524.0,5577.0,5154.0,-0.0473418703919286,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+M&M,2015,1055.0,-4357.0,1669.0,3381.0,0.3120378586217096,Accrual Risk,+,-,+,Mixed,Available
+M&M,2016,2385.0,-5506.0,2967.0,3554.0,0.6710748452447945,Moderate,+,-,+,Mixed,Available
+M&M,2017,183.0,-5875.0,6108.0,4051.0,0.04517403110343125,Accrual Risk,+,-,+,Mixed,Available
+M&M,2018,682.0,-5467.0,6314.0,7958.0,0.0856999246041719,Accrual Risk,+,-,+,Mixed,Available
+M&M,2019,-4347.0,-7174.0,13194.0,6017.0,-0.7224530496925378,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+M&M,2020,-1457.0,-6870.0,6933.0,-321.0,4.538940809968848,High Quality,-,-,+,Growth Funded by Debt,Available
+M&M,2021,17909.0,-19686.0,406.0,1512.0,11.84457671957672,High Quality,+,-,+,Mixed,Available
+M&M,2022,9248.0,-3252.0,-5883.0,7253.0,1.2750585964428511,High Quality,+,-,-,Shareholder Returns,Available
+M&M,2023,-7074.0,-8866.0,15946.0,11374.0,-0.6219447863548444,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+M&M,2024,-5630.0,-5615.0,12281.0,12270.0,-0.4588427057864711,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+MARUTI,2013,4059.0,-3119.0,-979.0,2470.0,1.6433198380566802,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2014,4995.0,-4997.0,-74.0,2854.0,1.750175192711983,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2015,6449.0,-4491.0,-2004.0,3809.0,1.693095300603833,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2016,8482.0,-7230.0,-1237.0,5497.0,1.543023467345825,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2017,10282.0,-9173.0,-1129.0,7511.0,1.3689255758221275,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2018,11788.0,-8302.0,-3436.0,7881.0,1.4957492703971578,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2019,6601.0,-3540.0,-2948.0,7651.0,0.8627630375114365,Moderate,+,-,-,Reinvestor,Available
+MARUTI,2020,3496.0,-557.0,-3104.0,5678.0,0.6157097569566748,Moderate,+,-,-,Reinvestor,Available
+MARUTI,2021,8856.0,-7291.0,-1545.0,4389.0,2.017771701982228,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2022,1840.0,-239.0,-1607.0,3880.0,0.4742268041237113,Accrual Risk,+,-,-,Reinvestor,Available
+MARUTI,2023,10815.0,-8820.0,-1214.0,8264.0,1.3086882865440466,High Quality,+,-,-,Shareholder Returns,Available
+MARUTI,2024,16801.0,-11865.0,-4062.0,13488.0,1.2456257413997627,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2013,1486.0,-1089.0,-256.0,452.0,3.2876106194690267,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2014,2695.0,-1372.0,-1080.0,1097.0,2.456700091157703,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2015,3390.0,-2844.0,494.0,1292.0,2.623839009287926,High Quality,+,-,+,Mixed,Available
+MOTHERSON,2016,2188.0,-1906.0,-263.0,1774.0,1.23337091319053,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2017,3800.0,-6145.0,5518.0,2172.0,1.7495395948434622,High Quality,+,-,+,Mixed,Available
+MOTHERSON,2018,3264.0,-3194.0,-2221.0,2260.0,1.4442477876106194,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2019,4312.0,-3318.0,-225.0,2098.0,2.0552907530981885,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2020,6352.0,-2220.0,-2803.0,1294.0,4.908809891808346,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2021,5051.0,-1886.0,-2098.0,1569.0,3.2192479286169533,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2022,2463.0,-2304.0,-1217.0,1182.0,2.083756345177665,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2023,4643.0,-2248.0,-2734.0,1670.0,2.7802395209580837,High Quality,+,-,-,Shareholder Returns,Available
+MOTHERSON,2024,7569.0,-6644.0,1281.0,3020.0,2.5062913907284767,High Quality,+,-,+,Mixed,Available
+NAUKRI,2013,75.0,-46.0,-12.0,76.0,0.9868421052631579,Moderate,+,-,-,Reinvestor,Available
+NAUKRI,2014,81.0,-204.0,130.0,60.0,1.35,High Quality,+,-,+,Mixed,Available
+NAUKRI,2015,51.0,-1051.0,1025.0,-14.0,-3.642857142857143,Accrual Risk,+,-,+,Mixed,Available
+NAUKRI,2016,78.0,-2.0,-66.0,118.0,0.6610169491525424,Moderate,+,-,-,Reinvestor,Available
+NAUKRI,2017,213.0,-165.0,-42.0,-43.0,-4.953488372093023,Accrual Risk,+,-,-,Reinvestor,Available
+NAUKRI,2018,253.0,-149.0,-75.0,501.0,0.5049900199600799,Moderate,+,-,-,Reinvestor,Available
+NAUKRI,2019,276.0,-59.0,-78.0,592.0,0.46621621621621623,Accrual Risk,+,-,-,Reinvestor,Available
+NAUKRI,2020,350.0,97.0,-143.0,-246.0,-1.4227642276422765,Accrual Risk,+,+,-,Liquidating Assets,Available
+NAUKRI,2021,276.0,-2043.0,1880.0,1418.0,0.19464033850493653,Accrual Risk,+,-,+,Mixed,Available
+NAUKRI,2022,707.0,-1177.0,35.0,12882.0,0.05488278217668064,Accrual Risk,+,-,+,Mixed,Available
+NAUKRI,2023,512.0,-358.0,2.0,-70.0,-7.314285714285714,Accrual Risk,+,-,+,Mixed,Available
+NAUKRI,2024,702.0,-852.0,120.0,595.0,1.1798319327731093,High Quality,+,-,+,Mixed,Available
+NESTLEIND,2013,1796.0,-441.0,-580.0,1117.0,1.6078782452999105,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2014,1644.0,-432.0,-1635.0,1185.0,1.3873417721518988,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2015,1098.0,-70.0,-498.0,563.0,1.9502664298401422,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2016,1466.0,-126.0,-666.0,1001.0,1.4645354645354645,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2017,1818.0,-131.0,-997.0,1225.0,1.4840816326530613,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2018,2052.0,-52.0,-1317.0,1607.0,1.2769135034225265,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2019,2295.0,83.0,-3602.0,1968.0,1.166158536585366,High Quality,+,+,-,Liquidating Assets,Available
+NESTLEIND,2020,2454.0,-321.0,-1956.0,2082.0,1.1786743515850144,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2021,2236.0,-1920.0,-2020.0,2118.0,1.0557129367327667,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2022,2737.0,-392.0,-2123.0,2391.0,1.1447093266415727,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2023,3392.0,-927.0,-2436.0,2999.0,1.1310436812270757,High Quality,+,-,-,Shareholder Returns,Available
+NESTLEIND,2024,4175.0,-1237.0,-3135.0,3933.0,1.0615306381896772,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2013,2846.0,-1330.0,-1344.0,2873.0,0.9906021580229725,Moderate,+,-,-,Reinvestor,Available
+NHPC,2014,3824.0,-1122.0,-4536.0,1633.0,2.3417023882424983,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2015,4061.0,-768.0,-2494.0,2798.0,1.4513938527519656,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2016,5971.0,-746.0,-4000.0,2365.0,2.5247357293868924,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2017,8329.0,-1864.0,-7812.0,3480.0,2.393390804597701,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2018,4696.0,-886.0,-3863.0,2785.0,1.6861759425493716,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2019,3824.0,-1182.0,-2637.0,2836.0,1.3483779971791254,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2020,2993.0,-2987.0,12.0,3345.0,0.8947683109118086,Moderate,+,-,+,Mixed,Available
+NHPC,2021,5070.0,-1607.0,-3058.0,3600.0,1.4083333333333334,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2022,4590.0,-3084.0,-638.0,3774.0,1.2162162162162162,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2023,4705.0,-4191.0,-795.0,4261.0,1.1042008918094344,High Quality,+,-,-,Shareholder Returns,Available
+NHPC,2024,6938.0,-5968.0,-581.0,4028.0,1.7224428997020853,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2013,16508.0,-16845.0,988.0,12586.0,1.3116160813602415,High Quality,+,-,+,Mixed,Available
+NTPC,2014,16531.0,-15509.0,-2709.0,11403.0,1.4497062176620188,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2015,14889.0,-15977.0,-1474.0,9992.0,1.4900920736589272,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2016,24125.0,-19162.0,-3899.0,10781.0,2.237733048882293,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2017,20167.0,-24480.0,3138.0,10714.0,1.8823035280940825,High Quality,+,-,+,Mixed,Available
+NTPC,2018,19670.0,-20678.0,1028.0,10502.0,1.8729765758903065,High Quality,+,-,+,Mixed,Available
+NTPC,2019,18686.0,-24063.0,4927.0,14034.0,1.331480689753456,High Quality,+,-,+,Mixed,Available
+NTPC,2020,23890.0,-29628.0,6004.0,11902.0,2.007225676356915,High Quality,+,-,+,Mixed,Available
+NTPC,2021,32444.0,-21034.0,-11049.0,14969.0,2.1674126528158193,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2022,41788.0,-22891.0,-19172.0,16960.0,2.463915094339623,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2023,47152.0,-26145.0,-21217.0,17121.0,2.7540447403773145,High Quality,+,-,-,Shareholder Returns,Available
+NTPC,2024,40785.0,-32141.0,-8246.0,21332.0,1.9119163697731107,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2013,39874.0,-41220.0,-6927.0,23994.0,1.6618321246978411,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2014,53270.0,-63633.0,15225.0,26665.0,1.9977498593662104,High Quality,+,-,+,Mixed,Available
+ONGC,2015,33950.0,-30058.0,-10641.0,17703.0,1.9177540529853696,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2016,46292.0,-38256.0,-8972.0,13102.0,3.533201038009464,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2017,45780.0,-43815.0,-1867.0,29169.0,1.5694744420446365,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2018,56792.0,-66798.0,9909.0,26068.0,2.178609789780574,High Quality,+,-,+,Mixed,Available
+ONGC,2019,61458.0,-37132.0,-23324.0,33938.0,1.8108904472862277,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2020,70593.0,-53159.0,-16726.0,11456.0,6.162098463687151,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2021,47185.0,-39141.0,-8239.0,21360.0,2.2090355805243447,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2022,78248.0,-41197.0,-35790.0,49294.0,1.5873737168823792,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2023,86062.0,-74690.0,-12876.0,32778.0,2.625602538287876,High Quality,+,-,-,Shareholder Returns,Available
+ONGC,2024,99263.0,-57203.0,-45650.0,57101.0,1.7383758603176827,High Quality,+,-,-,Shareholder Returns,Available
+PFC,2013,-25102.0,22.0,27947.0,4438.0,-5.65615141955836,Accrual Risk,-,+,+,Distress Signal,Available
+PFC,2014,-22473.0,9.0,17671.0,5462.0,-4.1144269498352255,Accrual Risk,-,+,+,Distress Signal,Available
+PFC,2015,-21455.0,-491.0,26916.0,6004.0,-3.5734510326449036,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PFC,2016,-13298.0,-1973.0,10383.0,6184.0,-2.1503880983182406,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PFC,2017,1795.0,-667.0,1950.0,2236.0,0.802772808586762,Moderate,+,-,+,Mixed,Available
+PFC,2018,-57148.0,1409.0,52018.0,8797.0,-6.496305558713198,Accrual Risk,-,+,+,Distress Signal,Available
+PFC,2019,-80252.0,-13463.0,93616.0,12640.0,-6.349050632911393,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PFC,2020,-42148.0,-73.0,43399.0,9477.0,-4.447398965917484,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PFC,2021,-59143.0,1741.0,60424.0,15716.0,-3.763234919826928,Accrual Risk,-,+,+,Distress Signal,Available
+PFC,2022,4904.0,-547.0,-8371.0,18768.0,0.2612958226768968,Accrual Risk,+,-,-,Reinvestor,Available
+PFC,2023,-74717.0,-1694.0,75537.0,21179.0,-3.527881391944851,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PFC,2024,-97820.0,-3409.0,101261.0,26461.0,-3.6967612713049394,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PIDILITIND,2013,472.0,-144.0,-339.0,424.0,1.1132075471698113,High Quality,+,-,-,Shareholder Returns,Available
+PIDILITIND,2014,394.0,-99.0,-242.0,450.0,0.8755555555555555,Moderate,+,-,-,Reinvestor,Available
+PIDILITIND,2015,552.0,-436.0,-165.0,514.0,1.0739299610894941,High Quality,+,-,-,Shareholder Returns,Available
+PIDILITIND,2016,907.0,-491.0,-371.0,807.0,1.123915737298637,High Quality,+,-,-,Shareholder Returns,Available
+PIDILITIND,2017,794.0,-879.0,41.0,863.0,0.9200463499420626,Moderate,+,-,+,Mixed,Available
+PIDILITIND,2018,796.0,39.0,-790.0,966.0,0.8240165631469979,Moderate,+,+,-,Liquidating Assets,Available
+PIDILITIND,2019,845.0,-513.0,-361.0,928.0,0.9105603448275862,Moderate,+,-,-,Reinvestor,Available
+PIDILITIND,2020,1280.0,103.0,-849.0,1122.0,1.1408199643493762,High Quality,+,+,-,Liquidating Assets,Available
+PIDILITIND,2021,1392.0,-1688.0,-76.0,1126.0,1.236234458259325,High Quality,+,-,-,Shareholder Returns,Available
+PIDILITIND,2022,955.0,-558.0,-468.0,1207.0,0.7912178956089478,Moderate,+,-,-,Reinvestor,Available
+PIDILITIND,2023,1558.0,-899.0,-656.0,1289.0,1.208688906128782,High Quality,+,-,-,Shareholder Returns,Available
+PIDILITIND,2024,2724.0,-1769.0,-742.0,1747.0,1.559244419004007,High Quality,+,-,-,Shareholder Returns,Available
+PNB,2013,-692.0,-600.0,-694.0,5020.0,-0.13784860557768924,Accrual Risk,-,-,-,Pre-Revenue,Available
+PNB,2014,16906.0,-302.0,2129.0,3674.0,4.601524224278715,High Quality,+,-,+,Mixed,Available
+PNB,2015,4814.0,-872.0,7451.0,3525.0,1.3656737588652483,High Quality,+,-,+,Mixed,Available
+PNB,2016,14167.0,-1352.0,5975.0,-3510.0,-4.036182336182336,Accrual Risk,+,-,+,Mixed,Available
+PNB,2017,21938.0,159.0,-9767.0,1239.0,17.706214689265536,High Quality,+,+,-,Liquidating Assets,Available
+PNB,2018,-1742.0,392.0,7460.0,-12111.0,0.14383618198332096,Accrual Risk,-,+,+,Distress Signal,Available
+PNB,2019,-33532.0,-629.0,13969.0,-9550.0,3.5112041884816754,High Quality,-,-,+,Growth Funded by Debt,Available
+PNB,2020,-12793.0,-338.0,13591.0,485.0,-26.377319587628865,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+PNB,2021,30950.0,-787.0,5415.0,2695.0,11.484230055658626,High Quality,+,-,+,Mixed,Available
+PNB,2022,20032.0,-1204.0,2032.0,3908.0,5.12589559877175,High Quality,+,-,+,Mixed,Available
+PNB,2023,22592.0,-732.0,1275.0,3359.0,6.725811253349211,High Quality,+,-,+,Mixed,Available
+PNB,2024,-27939.0,-1506.0,3518.0,9157.0,-3.0511084416293546,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+POWERGRID,2013,11690.0,-22084.0,9962.0,4313.0,2.7104103872014838,High Quality,+,-,+,Mixed,Available
+POWERGRID,2014,15223.0,-26639.0,13712.0,4548.0,3.3471855760773965,High Quality,+,-,+,Mixed,Available
+POWERGRID,2015,15800.0,-24185.0,6399.0,5046.0,3.1311930241775663,High Quality,+,-,+,Mixed,Available
+POWERGRID,2016,15008.0,-21576.0,5621.0,5959.0,2.518543379761705,High Quality,+,-,+,Mixed,Available
+POWERGRID,2017,21575.0,-23836.0,3959.0,7451.0,2.895584485303986,High Quality,+,-,+,Mixed,Available
+POWERGRID,2018,22710.0,-25701.0,1285.0,8204.0,2.7681618722574353,High Quality,+,-,+,Mixed,Available
+POWERGRID,2019,23271.0,-18727.0,-2431.0,10034.0,2.3192146701215868,High Quality,+,-,-,Shareholder Returns,Available
+POWERGRID,2020,30739.0,-10733.0,-18806.0,11059.0,2.7795460710733337,High Quality,+,-,-,Shareholder Returns,Available
+POWERGRID,2021,29403.0,-9244.0,-20521.0,12036.0,2.442921236291127,High Quality,+,-,-,Shareholder Returns,Available
+POWERGRID,2022,26124.0,753.0,-28967.0,16824.0,1.5527817403708988,High Quality,+,+,-,Liquidating Assets,Available
+POWERGRID,2023,40203.0,-7138.0,-30450.0,15420.0,2.6071984435797666,High Quality,+,-,-,Shareholder Returns,Available
+POWERGRID,2024,37290.0,-13114.0,-25903.0,15573.0,2.394528992486997,High Quality,+,-,-,Shareholder Returns,Available
+RECLTD,2013,-20059.0,152.0,16059.0,3833.0,-5.233237672841117,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2014,-17244.0,136.0,16815.0,4741.0,-3.6372073402235814,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2015,-23898.0,151.0,23098.0,5344.0,-4.4719311377245505,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2016,-13278.0,-756.0,15291.0,5691.0,-2.3331576172904587,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+RECLTD,2017,6805.0,-101.0,-3947.0,6313.0,1.0779344210359576,High Quality,+,-,-,Shareholder Returns,Available
+RECLTD,2018,-32510.0,46.0,28244.0,4451.0,-7.303976634464165,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2019,-35866.0,457.0,35543.0,5741.0,-6.247343668350462,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2020,-32712.0,121.0,33926.0,4972.0,-6.579243765084473,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2021,-43512.0,861.0,42113.0,8378.0,-5.1936022917164,Accrual Risk,-,+,+,Distress Signal,Available
+RECLTD,2022,-819.0,-287.0,68.0,10036.0,-0.08160621761658031,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+RECLTD,2023,-37360.0,-943.0,38123.0,11167.0,-3.3455717739768964,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+RECLTD,2024,-57723.0,-1831.0,59588.0,14145.0,-4.0808059384941675,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+RELIANCE,2013,36918.0,-27601.0,408.0,20886.0,1.7675955185291583,High Quality,+,-,+,Mixed,Available
+RELIANCE,2014,43261.0,-73070.0,13713.0,22548.0,1.9186180592513749,High Quality,+,-,+,Mixed,Available
+RELIANCE,2015,34374.0,-64706.0,8444.0,23640.0,1.4540609137055838,High Quality,+,-,+,Mixed,Available
+RELIANCE,2016,38134.0,-36186.0,-3210.0,29861.0,1.2770503332105423,High Quality,+,-,-,Shareholder Returns,Available
+RELIANCE,2017,49550.0,-66201.0,8617.0,29833.0,1.6609124124291892,High Quality,+,-,+,Mixed,Available
+RELIANCE,2018,71459.0,-68192.0,-2001.0,36080.0,1.980570953436807,High Quality,+,-,-,Shareholder Returns,Available
+RELIANCE,2019,42346.0,-94507.0,55906.0,39837.0,1.0629816502246656,High Quality,+,-,+,Mixed,Available
+RELIANCE,2020,94877.0,-72497.0,-2541.0,39880.0,2.379062186559679,High Quality,+,-,-,Shareholder Returns,Available
+RELIANCE,2021,26958.0,-142385.0,101904.0,53739.0,0.5016468486573996,Moderate,+,-,+,Mixed,Available
+RELIANCE,2022,110654.0,-109162.0,17289.0,67845.0,1.6309823863217627,High Quality,+,-,+,Mixed,Available
+RELIANCE,2023,115032.0,-93001.0,10455.0,74088.0,1.5526401036605118,High Quality,+,-,+,Mixed,Available
+RELIANCE,2024,158788.0,-113581.0,-16646.0,79020.0,2.00946595798532,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2013,1130.0,-227.0,-58.0,630.0,1.7936507936507937,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2014,166.0,-708.0,-58.0,728.0,0.22802197802197802,Accrual Risk,+,-,-,Reinvestor,Available
+SBILIFE,2015,2711.0,-178.0,-117.0,815.0,3.3263803680981594,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2016,5778.0,-7204.0,-144.0,844.0,6.845971563981043,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2017,8525.0,-9032.0,-144.0,955.0,8.926701570680628,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2018,10395.0,-8910.0,-221.0,1150.0,9.039130434782608,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2019,13473.0,-13552.0,-241.0,1327.0,10.152976639035419,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2020,19299.0,-16986.0,-198.0,1422.0,13.571729957805907,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2021,23878.0,-19203.0,3.0,1456.0,16.399725274725274,High Quality,+,-,+,Mixed,Available
+SBILIFE,2022,21852.0,-21611.0,-231.0,1506.0,14.50996015936255,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2023,28656.0,-30203.0,-415.0,1721.0,16.650784427658337,High Quality,+,-,-,Shareholder Returns,Available
+SBILIFE,2024,29122.0,-31221.0,-227.0,1894.0,15.375923970432947,High Quality,+,-,-,Shareholder Returns,Available
+SBIN,2013,24332.0,-2271.0,-4424.0,18555.0,1.3113446510374562,High Quality,+,-,-,Shareholder Returns,Available
+SBIN,2014,19142.0,-791.0,3583.0,14807.0,1.2927669345579793,High Quality,+,-,+,Mixed,Available
+SBIN,2015,26297.0,-3424.0,-1553.0,17832.0,1.4747083894122925,High Quality,+,-,-,Shareholder Returns,Available
+SBIN,2016,14477.0,-2747.0,4348.0,13019.0,1.1119901682156847,High Quality,+,-,+,Mixed,Available
+SBIN,2017,77406.0,-4572.0,-4196.0,-97.0,-798.0,Accrual Risk,+,-,-,Reinvestor,Available
+SBIN,2018,-96508.0,13053.0,5547.0,-3749.0,25.742331288343557,High Quality,-,+,+,Distress Signal,Available
+SBIN,2019,29556.0,220.0,448.0,3351.0,8.820053715308863,High Quality,+,+,+,Cash Accumulator,Available
+SBIN,2020,23929.0,-555.0,5430.0,21140.0,1.1319299905392621,High Quality,+,-,+,Mixed,Available
+SBIN,2021,89919.0,-3670.0,7143.0,23888.0,3.764191225720027,High Quality,+,-,+,Mixed,Available
+SBIN,2022,57695.0,-2652.0,-3845.0,37183.0,1.5516499475566792,High Quality,+,-,-,Shareholder Returns,Available
+SBIN,2023,-86014.0,-966.0,6386.0,57750.0,-1.4894199134199133,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SBIN,2024,21632.0,-3476.0,-9896.0,69543.0,0.31105934457817463,Accrual Risk,+,-,-,Reinvestor,Available
+SHREECEM,2013,1260.0,-270.0,-982.0,1004.0,1.254980079681275,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2014,1401.0,-1234.0,-156.0,787.0,1.7801778907242694,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2015,1239.0,-990.0,-259.0,426.0,2.908450704225352,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2016,1566.0,-1265.0,-271.0,1143.0,1.3700787401574803,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2017,2202.0,-2048.0,-167.0,1339.0,1.6445108289768484,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2018,1879.0,-3595.0,1726.0,1384.0,1.3576589595375723,High Quality,+,-,+,Mixed,Available
+SHREECEM,2019,2080.0,-720.0,-1276.0,1015.0,2.0492610837438425,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2020,3973.0,-5590.0,1581.0,1544.0,2.573186528497409,High Quality,+,-,+,Mixed,Available
+SHREECEM,2021,4254.0,-2651.0,-1233.0,2337.0,1.8202824133504494,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2022,2668.0,-2143.0,-849.0,1269.0,2.102442868400315,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2023,2569.0,-2405.0,-277.0,2369.0,1.084423807513719,High Quality,+,-,-,Shareholder Returns,Available
+SHREECEM,2024,3347.0,-1418.0,-1710.0,1733.0,1.93133294864397,High Quality,+,-,-,Shareholder Returns,Available
+SHRIRAMFIN,2013,-8359.0,-41.0,9060.0,1463.0,-5.713602187286398,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2014,-4055.0,-112.0,5010.0,1358.0,-2.9860088365243005,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2015,-9611.0,-45.0,7836.0,1028.0,-9.349221789883268,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2016,-5507.0,-36.0,2822.0,1184.0,-4.6511824324324325,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2017,-2677.0,-2.0,3017.0,1266.0,-2.1145339652448656,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2018,-13142.0,86.0,13014.0,2549.0,-5.155747351902707,Accrual Risk,-,+,+,Distress Signal,Available
+SHRIRAMFIN,2019,-5535.0,-76.0,5550.0,2576.0,-2.1486801242236027,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2020,-2464.0,-55.0,4579.0,2512.0,-0.9808917197452229,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2021,-4239.0,-25.0,12226.0,2499.0,-1.6962785114045618,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2022,-8859.0,-34.0,8505.0,2721.0,-3.2557883131201764,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SHRIRAMFIN,2023,-17625.0,5076.0,11820.0,6020.0,-2.9277408637873754,Accrual Risk,-,+,+,Distress Signal,Available
+SHRIRAMFIN,2024,-31101.0,-258.0,27609.0,7399.0,-4.203405865657522,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+SIEMENS,2011,3.0,264.0,-196.0,868.0,0.0034562211981566822,Accrual Risk,+,+,-,Liquidating Assets,Available
+SIEMENS,2014,608.0,130.0,-220.0,603.0,1.0082918739635158,High Quality,+,+,-,Liquidating Assets,Available
+SIEMENS,2015,574.0,646.0,-245.0,1174.0,0.4889267461669506,Accrual Risk,+,+,-,Liquidating Assets,Available
+SIEMENS,2016,513.0,237.0,-1614.0,2914.0,0.17604667124227866,Accrual Risk,+,+,-,Liquidating Assets,Available
+SIEMENS,2017,573.0,1321.0,-285.0,1137.0,0.503957783641161,Moderate,+,+,-,Liquidating Assets,Available
+SIEMENS,2018,100.0,-174.0,-305.0,901.0,0.11098779134295228,Accrual Risk,+,-,-,Reinvestor,Available
+SIEMENS,2019,1273.0,-1135.0,-312.0,1099.0,1.1583257506824385,High Quality,+,-,-,Shareholder Returns,Available
+SIEMENS,2020,720.0,871.0,-386.0,769.0,0.9362808842652796,Moderate,+,+,-,Liquidating Assets,Available
+SIEMENS,2021,1422.0,-2389.0,-502.0,1089.0,1.3057851239669422,High Quality,+,-,-,Shareholder Returns,Available
+SIEMENS,2022,978.0,-34.0,-392.0,1543.0,0.6338302009073234,Moderate,+,-,-,Reinvestor,Available
+SIEMENS,2023,1400.0,-759.0,-450.0,1962.0,0.7135575942915392,Moderate,+,-,-,Reinvestor,Available
+SIEMENS,2024,1670.0,-502.0,-523.0,2718.0,0.6144223693892568,Moderate,+,-,-,Reinvestor,Available
+SUNPHARMA,2013,3357.0,-2375.0,-665.0,3469.0,0.9677140386278467,Moderate,+,-,-,Reinvestor,Available
+SUNPHARMA,2014,3959.0,-2176.0,507.0,3879.0,1.0206238721319927,High Quality,+,-,+,Mixed,Available
+SUNPHARMA,2015,5616.0,-1502.0,-1187.0,5476.0,1.0255661066471877,High Quality,+,-,-,Shareholder Returns,Available
+SUNPHARMA,2016,6686.0,-3949.0,-1889.0,5658.0,1.1816896429833863,High Quality,+,-,-,Shareholder Returns,Available
+SUNPHARMA,2017,7082.0,-4186.0,-2285.0,7846.0,0.9026255416772878,Moderate,+,-,-,Reinvestor,Available
+SUNPHARMA,2018,3907.0,-3104.0,-1539.0,2542.0,1.536978756884343,High Quality,+,-,-,Shareholder Returns,Available
+SUNPHARMA,2019,2196.0,-310.0,-2731.0,3208.0,0.6845386533665836,Moderate,+,-,-,Reinvestor,Available
+SUNPHARMA,2020,6555.0,-2225.0,-5715.0,4172.0,1.571188878235858,High Quality,+,-,-,Shareholder Returns,Available
+SUNPHARMA,2021,6170.0,407.0,-5980.0,2272.0,2.715669014084507,High Quality,+,+,-,Liquidating Assets,Available
+SUNPHARMA,2022,8985.0,-5556.0,-5193.0,3389.0,2.6512245500147538,High Quality,+,-,-,Shareholder Returns,Available
+SUNPHARMA,2023,4959.0,-7220.0,2376.0,8513.0,0.5825208504639963,Moderate,+,-,+,Mixed,Available
+SUNPHARMA,2024,12135.0,-763.0,-6710.0,9610.0,1.2627471383975026,High Quality,+,-,-,Shareholder Returns,Available
+TATACONSUM,2013,173.0,24.0,186.0,445.0,0.3887640449438202,Accrual Risk,+,+,+,Cash Accumulator,Available
+TATACONSUM,2014,422.0,-1.0,-363.0,510.0,0.8274509803921568,Moderate,+,-,-,Reinvestor,Available
+TATACONSUM,2015,418.0,-207.0,-392.0,273.0,1.531135531135531,High Quality,+,-,-,Shareholder Returns,Available
+TATACONSUM,2016,116.0,145.0,-282.0,-37.0,-3.135135135135135,Accrual Risk,+,+,-,Liquidating Assets,Available
+TATACONSUM,2017,741.0,145.0,-816.0,455.0,1.6285714285714286,High Quality,+,+,-,Liquidating Assets,Available
+TATACONSUM,2018,356.0,-31.0,-30.0,556.0,0.6402877697841727,Moderate,+,-,-,Reinvestor,Available
+TATACONSUM,2019,210.0,53.0,-224.0,457.0,0.45951859956236324,Accrual Risk,+,+,-,Liquidating Assets,Available
+TATACONSUM,2020,1082.0,-622.0,-308.0,460.0,2.3521739130434782,High Quality,+,-,-,Shareholder Returns,Available
+TATACONSUM,2021,1656.0,-346.0,-426.0,930.0,1.7806451612903227,High Quality,+,-,-,Shareholder Returns,Available
+TATACONSUM,2022,1516.0,-1317.0,-995.0,1015.0,1.4935960591133004,High Quality,+,-,-,Shareholder Returns,Available
+TATACONSUM,2023,1461.0,-834.0,-714.0,1320.0,1.106818181818182,High Quality,+,-,-,Shareholder Returns,Available
+TATACONSUM,2024,1937.0,-1911.0,256.0,1215.0,1.594238683127572,High Quality,+,-,+,Mixed,Available
+TATAMOTORS,2013,22163.0,-22969.0,-1692.0,9976.0,2.2216319165998395,High Quality,+,-,-,Shareholder Returns,Available
+TATAMOTORS,2014,36151.0,-27991.0,-3883.0,14050.0,2.5730249110320287,High Quality,+,-,-,Shareholder Returns,Available
+TATAMOTORS,2015,35531.0,-36232.0,5201.0,14073.0,2.524763731969019,High Quality,+,-,+,Mixed,Available
+TATAMOTORS,2016,37900.0,-36694.0,-3795.0,11678.0,3.2454187360849462,High Quality,+,-,-,Shareholder Returns,Available
+TATAMOTORS,2017,30199.0,-39571.0,6205.0,7557.0,3.9961624983459045,High Quality,+,-,+,Mixed,Available
+TATAMOTORS,2018,23857.0,-25139.0,2012.0,9091.0,2.6242437575624242,High Quality,+,-,+,Mixed,Available
+TATAMOTORS,2019,18891.0,-20878.0,8830.0,-28724.0,-0.6576730260409414,Accrual Risk,+,-,+,Mixed,Available
+TATAMOTORS,2020,26633.0,-33115.0,3390.0,-11975.0,-2.2240501043841334,Accrual Risk,+,-,+,Mixed,Available
+TATAMOTORS,2021,29001.0,-25672.0,9904.0,-13395.0,-2.1650615901455765,Accrual Risk,+,-,+,Mixed,Available
+TATAMOTORS,2022,14283.0,-4444.0,-3380.0,-11309.0,-1.262976390485454,Accrual Risk,+,-,-,Reinvestor,Available
+TATAMOTORS,2023,35388.0,-15417.0,-26243.0,2690.0,13.155390334572491,High Quality,+,-,-,Shareholder Returns,Available
+TATAMOTORS,2024,67915.0,-22782.0,-37006.0,31807.0,2.135221806520577,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2013,3286.0,-4026.0,-593.0,123.0,26.715447154471544,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2014,6483.0,-3609.0,-3265.0,12.0,540.25,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2015,5981.0,-3865.0,-2239.0,457.0,13.087527352297593,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2016,7415.0,-1805.0,-6183.0,786.0,9.43384223918575,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2017,7014.0,-7373.0,937.0,1100.0,6.376363636363636,High Quality,+,-,+,Mixed,Available
+TATAPOWER,2018,6364.0,-1512.0,-4726.0,2611.0,2.4373803140559174,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2019,4574.0,-272.0,-5184.0,2606.0,1.7551803530314658,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2020,7375.0,-493.0,-5110.0,1316.0,5.604103343465046,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2021,8345.0,993.0,-7603.0,1439.0,5.799166087560806,High Quality,+,+,-,Liquidating Assets,Available
+TATAPOWER,2022,6693.0,-6250.0,-1183.0,2156.0,3.104359925788497,High Quality,+,-,-,Shareholder Returns,Available
+TATAPOWER,2023,7166.0,-7263.0,1341.0,3810.0,1.8808398950131233,High Quality,+,-,+,Mixed,Available
+TATAPOWER,2024,12596.0,-9027.0,-4497.0,4280.0,2.9429906542056075,High Quality,+,-,-,Shareholder Returns,Available
+TATASTEEL,2013,14035.0,-13099.0,-1780.0,-7272.0,-1.930005500550055,Accrual Risk,+,-,-,Reinvestor,Available
+TATASTEEL,2014,13146.0,-15378.0,1015.0,3665.0,3.5869031377899043,High Quality,+,-,+,Mixed,Available
+TATASTEEL,2015,11880.0,-9021.0,-2617.0,-3939.0,-3.015993907083016,Accrual Risk,+,-,-,Reinvestor,Available
+TATASTEEL,2016,11455.0,-8794.0,-4729.0,-497.0,-23.048289738430583,Accrual Risk,+,-,-,Reinvestor,Available
+TATASTEEL,2017,10824.0,-9490.0,-2579.0,-4169.0,-2.5963060686015833,Accrual Risk,+,-,-,Reinvestor,Available
+TATASTEEL,2018,8023.0,-11730.0,6640.0,17743.0,0.4521783238460238,Accrual Risk,+,-,+,Mixed,Available
+TATASTEEL,2019,25336.0,-29176.0,-673.0,9122.0,2.777461083095812,High Quality,+,-,-,Shareholder Returns,Available
+TATASTEEL,2020,20169.0,-14012.0,-1695.0,1174.0,17.179727427597957,High Quality,+,-,-,Shareholder Returns,Available
+TATASTEEL,2021,44327.0,-9437.0,-37090.0,8190.0,5.412332112332113,High Quality,+,-,-,Shareholder Returns,Available
+TATASTEEL,2022,44381.0,-10905.0,-23401.0,41749.0,1.063043426189849,High Quality,+,-,-,Shareholder Returns,Available
+TATASTEEL,2023,21683.0,-18179.0,-6981.0,8075.0,2.6852012383900927,High Quality,+,-,-,Shareholder Returns,Available
+TATASTEEL,2024,20301.0,-14253.0,-11097.0,-4910.0,-4.134623217922607,Accrual Risk,+,-,-,Reinvestor,Available
+TCS,2013,11615.0,-6038.0,-5729.0,14076.0,0.8251633986928104,Moderate,+,-,-,Reinvestor,Available
+TCS,2014,14751.0,-9452.0,-5673.0,19332.0,0.7630353817504656,Moderate,+,-,-,Reinvestor,Available
+TCS,2015,19369.0,-1807.0,-17168.0,20060.0,0.9655533399800598,Moderate,+,-,-,Reinvestor,Available
+TCS,2016,19109.0,-5010.0,-9666.0,24338.0,0.785150792998603,Moderate,+,-,-,Reinvestor,Available
+TCS,2017,25223.0,-16895.0,-11026.0,26357.0,0.9569753765603065,Moderate,+,-,-,Reinvestor,Available
+TCS,2018,25067.0,3104.0,-26885.0,25880.0,0.9685857805255024,Moderate,+,+,-,Liquidating Assets,Available
+TCS,2019,28593.0,1645.0,-27897.0,31562.0,0.9059311830682466,Moderate,+,+,-,Liquidating Assets,Available
+TCS,2020,32369.0,8968.0,-39915.0,32447.0,0.9975960797608407,Moderate,+,+,-,Liquidating Assets,Available
+TCS,2021,38802.0,-7956.0,-32634.0,32562.0,1.191634420490142,High Quality,+,-,-,Shareholder Returns,Available
+TCS,2022,39949.0,-738.0,-33581.0,38449.0,1.0390127181461157,High Quality,+,-,-,Shareholder Returns,Available
+TCS,2023,41965.0,548.0,-47878.0,42303.0,0.9920100229298159,Moderate,+,+,-,Liquidating Assets,Available
+TCS,2024,44338.0,6091.0,-48536.0,46099.0,0.9617996051975097,Moderate,+,+,-,Liquidating Assets,Available
+TECHM,2013,855.0,-622.0,65.0,1307.0,0.6541698546289212,Moderate,+,-,+,Mixed,Available
+TECHM,2014,1596.0,291.0,-972.0,3062.0,0.5212279555845852,Moderate,+,+,-,Liquidating Assets,Available
+TECHM,2015,2448.0,-1865.0,-829.0,2659.0,0.9206468597216999,Moderate,+,-,-,Reinvestor,Available
+TECHM,2016,3137.0,-1453.0,-496.0,3027.0,1.0363396101750908,High Quality,+,-,-,Shareholder Returns,Available
+TECHM,2017,4071.0,-2893.0,-1571.0,2851.0,1.4279200280603297,High Quality,+,-,-,Shareholder Returns,Available
+TECHM,2018,3554.0,-3319.0,-269.0,3786.0,0.9387216059165346,Moderate,+,-,-,Reinvestor,Available
+TECHM,2019,4432.0,-2104.0,-2251.0,4289.0,1.0333411051527162,High Quality,+,-,-,Shareholder Returns,Available
+TECHM,2020,4358.0,1081.0,-4466.0,3897.0,1.1182961252245316,High Quality,+,+,-,Liquidating Assets,Available
+TECHM,2021,8094.0,-5433.0,-2987.0,4353.0,1.859407305306685,High Quality,+,-,-,Shareholder Returns,Available
+TECHM,2022,5285.0,480.0,-4667.0,5630.0,0.9387211367673179,Moderate,+,+,-,Liquidating Assets,Available
+TECHM,2023,5572.0,-226.0,-5078.0,4857.0,1.1472102120650607,High Quality,+,-,-,Shareholder Returns,Available
+TECHM,2024,6376.0,-1318.0,-4767.0,2397.0,2.6599916562369628,High Quality,+,-,-,Shareholder Returns,Available
+TITAN,2013,553.0,-142.0,-236.0,725.0,0.7627586206896552,Moderate,+,-,-,Reinvestor,Available
+TITAN,2014,-555.0,-271.0,497.0,735.0,-0.7551020408163265,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+TITAN,2015,503.0,-118.0,-1005.0,816.0,0.616421568627451,Moderate,+,-,-,Reinvestor,Available
+TITAN,2016,576.0,-159.0,-505.0,675.0,0.8533333333333334,Moderate,+,-,-,Reinvestor,Available
+TITAN,2017,1712.0,-953.0,-166.0,697.0,2.456241032998565,High Quality,+,-,-,Shareholder Returns,Available
+TITAN,2018,-51.0,98.0,-252.0,1102.0,-0.04627949183303085,Accrual Risk,-,+,-,Other,Available
+TITAN,2019,1243.0,-797.0,-489.0,1389.0,0.8948884089272858,Moderate,+,-,-,Reinvestor,Available
+TITAN,2020,-348.0,235.0,-242.0,1493.0,-0.23308774279973207,Accrual Risk,-,+,-,Other,Available
+TITAN,2021,4139.0,-2799.0,-1234.0,974.0,4.249486652977413,High Quality,+,-,-,Shareholder Returns,Available
+TITAN,2022,-724.0,1165.0,-403.0,2198.0,-0.3293903548680619,Accrual Risk,-,+,-,Other,Available
+TITAN,2023,1370.0,-1814.0,457.0,3274.0,0.4184483811850947,Accrual Risk,+,-,+,Mixed,Available
+TITAN,2024,1695.0,-189.0,-1329.0,3496.0,0.4848398169336384,Accrual Risk,+,-,-,Reinvestor,Available
+TORNTPHARM,2013,153.0,-247.0,20.0,435.0,0.35172413793103446,Accrual Risk,+,-,+,Mixed,Available
+TORNTPHARM,2014,599.0,-418.0,86.0,664.0,0.9021084337349398,Moderate,+,-,+,Mixed,Available
+TORNTPHARM,2015,810.0,-2113.0,1212.0,751.0,1.0785619174434087,High Quality,+,-,+,Mixed,Available
+TORNTPHARM,2016,2742.0,-869.0,-1435.0,1733.0,1.5822273514137335,High Quality,+,-,-,Shareholder Returns,Available
+TORNTPHARM,2017,1009.0,-798.0,-193.0,934.0,1.0802997858672376,High Quality,+,-,-,Shareholder Returns,Available
+TORNTPHARM,2018,894.0,-4677.0,3417.0,678.0,1.3185840707964602,High Quality,+,-,+,Mixed,Available
+TORNTPHARM,2019,1798.0,-246.0,-1314.0,436.0,4.123853211009174,High Quality,+,-,-,Shareholder Returns,Available
+TORNTPHARM,2020,1393.0,229.0,-1549.0,1025.0,1.3590243902439025,High Quality,+,+,-,Liquidating Assets,Available
+TORNTPHARM,2021,2005.0,-444.0,-1651.0,1252.0,1.601437699680511,High Quality,+,-,-,Shareholder Returns,Available
+TORNTPHARM,2022,1803.0,-196.0,-1781.0,777.0,2.3204633204633205,High Quality,+,-,-,Shareholder Returns,Available
+TORNTPHARM,2023,2368.0,-2335.0,77.0,1245.0,1.902008032128514,High Quality,+,-,+,Mixed,Available
+TORNTPHARM,2024,3266.0,-160.0,-2780.0,1656.0,1.9722222222222223,High Quality,+,-,-,Shareholder Returns,Available
+TRENT,2013,31.0,-276.0,147.0,-27.0,-1.1481481481481481,Accrual Risk,+,-,+,Mixed,Available
+TRENT,2014,-46.0,-48.0,-50.0,-19.0,2.4210526315789473,High Quality,-,-,-,Pre-Revenue,Available
+TRENT,2015,-10.0,-306.0,310.0,129.0,-0.07751937984496124,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+TRENT,2016,109.0,-98.0,-13.0,55.0,1.981818181818182,High Quality,+,-,-,Shareholder Returns,Available
+TRENT,2017,102.0,-44.0,-51.0,85.0,1.2,High Quality,+,-,-,Shareholder Returns,Available
+TRENT,2018,77.0,-4.0,-74.0,87.0,0.8850574712643678,Moderate,+,-,-,Reinvestor,Available
+TRENT,2019,21.0,-37.0,37.0,95.0,0.22105263157894736,Accrual Risk,+,-,+,Mixed,Available
+TRENT,2020,361.0,-809.0,452.0,106.0,3.4056603773584904,High Quality,+,-,+,Mixed,Available
+TRENT,2021,285.0,18.0,-283.0,-181.0,-1.574585635359116,Accrual Risk,+,+,-,Liquidating Assets,Available
+TRENT,2022,58.0,56.0,-108.0,35.0,1.6571428571428573,High Quality,+,+,-,Liquidating Assets,Available
+TRENT,2023,595.0,-103.0,-491.0,394.0,1.5101522842639594,High Quality,+,-,-,Shareholder Returns,Available
+TRENT,2024,1349.0,-508.0,-629.0,1477.0,0.913337846987136,Moderate,+,-,-,Reinvestor,Available
+TVSMOTOR,2013,464.0,-120.0,-402.0,198.0,2.3434343434343434,High Quality,+,-,-,Shareholder Returns,Available
+TVSMOTOR,2014,470.0,-235.0,-216.0,187.0,2.513368983957219,High Quality,+,-,-,Shareholder Returns,Available
+TVSMOTOR,2015,83.0,-415.0,261.0,328.0,0.2530487804878049,Accrual Risk,+,-,+,Mixed,Available
+TVSMOTOR,2016,936.0,-605.0,-319.0,429.0,2.1818181818181817,High Quality,+,-,-,Shareholder Returns,Available
+TVSMOTOR,2017,689.0,-709.0,-59.0,509.0,1.3536345776031433,High Quality,+,-,-,Shareholder Returns,Available
+TVSMOTOR,2018,354.0,-1095.0,897.0,665.0,0.5323308270676692,Moderate,+,-,+,Mixed,Available
+TVSMOTOR,2019,-918.0,-1104.0,2210.0,725.0,-1.2662068965517241,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+TVSMOTOR,2020,373.0,-1090.0,1619.0,647.0,0.5765069551777434,Moderate,+,-,+,Mixed,Available
+TVSMOTOR,2021,1151.0,-882.0,264.0,608.0,1.893092105263158,High Quality,+,-,+,Mixed,Available
+TVSMOTOR,2022,-1575.0,-1471.0,2918.0,731.0,-2.1545827633378933,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+TVSMOTOR,2023,-4405.0,-1308.0,6118.0,1309.0,-3.3651642475171886,Accrual Risk,-,-,+,Growth Funded by Debt,Available
+TVSMOTOR,2024,-1253.0,-1001.0,2759.0,1779.0,-0.7043282743114109,Accrual Risk,-,-,+,Growth Funded by Debt,Available

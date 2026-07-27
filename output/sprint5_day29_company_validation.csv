@@ -1,0 +1,13 @@
+company_id,company_name,snapshot_created,required_fields_available,financial_ratio_records,valuation_records,pnl_records,cashflow_records,annual_report_records,status,error
+ABB,Abbott India Ltd,True,True,23,6,13,23,16,PASS,
+RELIANCE,"Reliance Industries Ltd
+",True,True,12,6,13,12,16,PASS,
+TCS,Tata Consultancy Services Ltd,True,True,12,6,13,24,16,PASS,
+HDFCBANK,HDFC Bank Ltd,True,True,12,6,13,12,16,PASS,
+INFY,Infosys Ltd,True,True,12,6,13,12,16,PASS,
+MARUTI,Maruti Suzuki India Ltd,True,True,12,6,13,12,16,PASS,
+TATAMOTORS,Tata Motors Ltd,True,True,12,6,13,12,16,PASS,
+SBIN,State Bank of India,True,False,0,6,13,12,16,PARTIAL,
+ITC,"ITC Ltd
+",True,True,12,6,13,12,16,PASS,
+BHARTIARTL,Bharti Airtel Ltd,True,True,12,6,13,12,16,PASS,
